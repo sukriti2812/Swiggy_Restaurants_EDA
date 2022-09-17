@@ -1,0 +1,668 @@
+Restaurant Name,Category,Rating,Cost for two,Area,Locality,Address,Veg,Long Distance Delivery
+Singh's Delight Restaurant(Sunderpur),"North Indian,Biryani,Mughlai,Chinese",3.8,350,Nagwa,Sunderpur,"1st Floor , Near Life Line Hospital, Brij Enclave Colony,Sunderpur varanasi, Sunderpur, Varanasi",False,0
+Burger King,"American,Fast Food",4.1,350,Sigra,Shastri Nagar,"Ground Floor and First Floor,Tulsi Complex,C-19/134,M-B,Shastri Nagar,Sigra,Varanasi,Uttar Pradesh 221001",False,0
+McDonald's,American,4.0,400,Varanasi Cantonment,JHV Mall,"UP Varanasi JHV Mall,  Shop No. 19-21/G, JHV Mall, Mall Road. Varanasi Cantt.,  Varanasi (U.P)- 221004",False,0
+Aman E Khas,"Mughlai,Biryani,North Indian,Chinese",3.9,350,Bhelupur,Bhelupur,"Boradway Hotel, Near IP Vijay Mall, Bhelupur, Varanasi",False,0
+Mahadev momo and coffee corner,Chinese,NA,200,Sigra,Sigra,"C28/141-k-p, teliyabagh, varanasi nagar nigam food safety zone-11 varanasi uttar pradesh-221002",False,0
+FIVE STAR CHICKEN,"Snacks,Fast Food,Indian",NA,200,Sigra,Sigra,"B 38/55 69 sheel nager varanasi, Ranipur,  Nagar Nigam Food Safety Zone-15,  Varanasi, Uttar Pradesh - 221010",False,0
+Pind Balluchi,"North Indian,Biryani,Mughlai,Thalis,Chinese",3.9,400,Jahumandi,Rathyatra,"3rd Floor, Swastik City Centre, Rathyatra, Sigra, Varanasi",False,0
+GUPTA BAKERS,Bakery,NA,250,Nadesar,Nadesar,"S 9/480, nai basti panchkoshi road pandeypur varanasi nagar nigam food safety zone-2, varanasi uttar pradesh-221002",False,0
+TanSam,Bakery,NA,250,Maheshpur,Sigra,"D 65/462, Lahartara, Varanasi, - 221002",False,0
+The Cake Cottage,Bakery,4.1,300,Mahmoorganj,Mahmoorganj,"D 63/13-A, Opposite Passport office, Mahmoorganj, Varanasi",True,0
+The	Biryani Mahal,"Biryani,Mughlai,North Indian,Snacks",3.8,350,Bhelupur,Lanka,"B-27/88-2-A-E	Ravindrapuri, bhelupur,	Varanasi,",False,0
+Baba Vishwanath Family Restuarant & Cafeteria,"North Indian,Chinese,Snacks",NA,250,Nadesar,Nadesar,"S 9/185 A-1-A,NAIBASTI,KHAJURI,Pandeypur, Nagar Nigam Food Safety Zone-2, Varanasi, Uttar Pradesh - 221002",True,0
+Pizza Hut,"Fast Food,Pizzas",3.3,350,Sigra,Varanasi,"Pizza Hut at Ground Floor, Gulab Bagh Residential Scheme, House No- C. 19/187-13 K Mohalla Lallapura, Ward Chetganj, Varanasi, Nagar Nigam Food Safety Zone-14,Uttar Pradesh, 221003",False,0
+The Big Chilli,"North Indian,Biryani,Chinese,Fast Food",3.8,350,Chaukaghat,Nadesar,"S- 19/74, Varuna Bridge, Nadesar, Varanasi",False,0
+The Taste of Banarasiya,"Indian,Chinese",3.4,200,Shivpurwa,Sigra,"C 33/283,Chandua ,Chittupura,Ghanti Mil road,Varanasi,Uttar Pradesh",False,0
+Banarasiya restaurant,"Indian,Chinese,Beverages",3.5,200,Sigra,Sigra,"C-33/283-A  CHHITTUPURA,VARANASI,221010  Varanasi, Lahartara, Nagar Nigam Food  Safety Zone-15, Varanasi, Uttar Pradesh -  221010",False,0
+Recipe Inn Restaurant,"North Indian,Mughlai,Chinese",3.7,350,Varanasi Cantonment,Nadesar,"Mint House crossing Near Pet Plaza, Nadesar, Varanasi",False,0
+Rich table restaurant,"North Indian,Chinese,Biryani,Mughlai",3.5,300,Sigra,Sigra,"C 33/52-5-A-C-1-G, CHANDUA, CHHITUPUR, VARANASI,LOKO CHHITUPUR,NAGAR NIGAM ZONE 15-VARANSI UP-221010",False,0
+Hotel Milap,"North Indian,Indian",2.0,200,Sigra,Chetganj,"33, Vijaya Nagram Market, Cantt, Varanasi",False,0
+Zaika Fresh and Tasty,"Indian,Chinese",4.0,200,Bhelupur,Sigra,"B21/1,Shop no 22,Rathyatra ,Varanasi.",True,0
+Pallavi Baati Chokha Restaurant,Indian,4.1,200,Sigra,Sigra,"Sigra Chauraha Road, Chhittupura, Sigra, Varanasi",True,0
+BOTI WITH ROTI,"North Indian,Biryani",NA,250,Sigra,Sigra,"BHRIGU VIHAR COLONY BLOCK ROAD,  SHIVDASHPUR, MANDUWADIH,  VARANASI , Maruadih (CT), Varanasi Tahsil,  Varanasi, Uttar Pradesh - 221103",False,0
+Shri Narayan Mishthan Bhandar,"Sweets,Snacks",3.9,350,Bhelupur,Durgakund,"B 26/53, Nwabganj, Durgakund, Varanasi",True,0
+MIDNIGHT BHUKKHAD,"Indian,North Indian",NA,250,Sigra,Sigra,"BHRIGU VIHAR COLONY BLOCK ROAD,  SHIVDASHPUR, MANDUWADIH,  VARANASI , Maruadih (CT), Varanasi Tahsil,  Varanasi, Uttar Pradesh - 221103",False,0
+Hanu's Naivedyam,South Indian,2.7,200,Sigra,Sigra,"8X58+P8J, Lehertara Industrial Estate, Varanasi, Uttar Pradesh 221106, India",True,0
+The Mint Leaf,"North Indian,Chinese,South Indian",3.7,300,Ramapura Luxa,Sigra,"Gurubagh Rd, Bhelupur Rd, opposite gurudwara, Gurubagh, Varanasi",True,0
+Biryani Begam,"Biryani,North Indian",NA,500,Sigra,Sigra,"8X58+P8J, Lehertara Industrial Estate, Varanasi, Uttar Pradesh 221106, India",False,0
+KFC,"American,Snacks,Biryani",3.9,400,Sigra,Celestial Building,"KFC Restaurant, Shop No-1, Ground Floor, Celestial Building, Plot No-D-64/127 A, Sigra, Varanasi-221010",False,0
+Hari Vilaas,"North Indian,Chinese,Italian,Biryani,Beverages",4.0,400,Jahumandi,Sigra,"Plot 32-33 Shri Nagar Colony, Gurubagh, Varanasi",True,0
+THE CHINESE ROSE,Chinese,NA,250,Sigra,Sigra,"C 33/52-5-A-C-1-G, CHANDUA,  CHHITUPUR, VARANASI , Loko  Chhitupura, Nagar Nigam Food Safety  Zone-15, Varanasi, Uttar Pradesh - 221010",False,0
+CURRY IN HURRY,"Indian,Chinese,Biryani",NA,250,Sigra,Sigra,"BHRIGU VIHAR COLONY BLOCK ROAD,  SHIVDASHPUR, MANDUWADIH,  VARANASI , Maruadih (CT), Varanasi Tahsil,  Varanasi, Uttar Pradesh - 221103",False,0
+100 Rupaiya Burger Wale,Snacks,NA,250,Sigra,Sigra,"C19/120-20K, Kamala Naagar ,behind Sigra Police Station,Varanasi 221010",False,0
+Chicago Pizza,"Pizzas,Pastas,Italian,Beverages",3.6,250,Sigra,Sigra,"C 27/193 Jagatganj , Varanasi",False,0
+Hot Pizza Ace,"Pizzas,Beverages",3.6,200,Sigra,Sigra,"C 27/231 JAGATGANJ VARANASI, 221002",False,0
+Shahi Daya Restaurant,"North Indian,South Indian,Chinese,Pizzas,Thalis",4.0,350,Jahumandi,sigra,"Gurubagh, Ratha Yatra Road, Near , Sigra, Varanasi",False,0
+Bistro B2,"Indian,Continental,Chinese,South Indian,Fast Food,Beverages",4.0,400,Chetganj,Chetganj,"C7/285, Shanti Tower, Ramakanth Nagar, Chetganj, Varanasi",False,0
+Behind Yellow Doors Diner,"Indian,Chinese,Snacks",NA,500,Sigra,Sigra,C 33 52 9A 1A Chittupur Chandua Sigra Varanasi Uttar Pradesh 221010,False,0
+THE CORIANDER BLEND,"Chinese,Italian",3.9,250,Sigra,Sigra,d-59/143 A-22 sant Raghuwar nagar colony sigra varanasi Landmark : 10 meter ahead dutta diagnostic,False,0
+Domino's Pizza,Pizzas,4.1,400,Chetganj,Sigra,"Ground Floor,Shop No-14,Cinema Site I.P. Mall,Shastri Nagar,Sigra,Varanasi",False,0
+Trishika Food Track,"Indian,Pizzas",NA,400,Sigra,Sigra,"Shop no33, Vijaya Nagram Market, Cantt, Varanasi  221002",False,0
+SHREE LAXMI BHOJANALAY,North Indian,NA,250,Sigra,Sigra,"BUILDING NO. 5 21/1-2, SHOP NO.-55, SHRI KRISNA DRAMASHALA ,CANTT VARANASI, NAGAR NIGAM FOOD SAFETY ZONE-4, VARANASI UTTAR PRADESH-221002",True,0
+SWAD-DESHI,"Indian,Chinese,Fast Food,Tandoor",NA,200,Sigra,Sigra,"C-32/23-K31-B Chandua Chhittupur, Varanasi 221002",False,0
+Behrouz Biryani,"Biryani,Mughlai,Lucknowi,Hyderabadi,Kebabs,North Indian,Persian,Desserts",4.3,500,Mahmoorganj,Mahmoorganj,"D63/13-A1, Mahmoorganj, Varanasi, Uttar Pradesh 221010",False,0
+Giani Ice Cream,"Desserts,Ice Cream",4.3,250,Chetganj,Sigra,"35, Lajpat Nagar, Maldahiya Crossing, Opposite Vinayaka Plaza, Sigra, Varanasi",True,0
+Matka Mutton Corner,"Mughlai,North Indian,Chinese",3.6,300,Chetganj,Chetganj,"Beside Maldahiya Paani Tanki, Opposite Dr Jamila Daud, Chetganj, Varanasi",False,0
+Taste on tip,"Chinese,Indian",3.5,200,Chetganj,Sigra,C 19/134 M Shastri Nagar Sigra Varanasi,False,0
+Satkar's Regale,"Chinese,Beverages,Snacks,North Indian,Continental,Pizzas",4.0,400,Sigra,Sigra,"Satkar's Regale, Near Nagar Nigam, Chandrika Nagar Colony, Sigra, Varanasi",False,0
+Hot Pizza King,"Pizzas,Italian",3.4,200,Lanka,Lanka,"C 27/231 JAGATGANJ VARANASI,  221002",False,0
+Kafe Fusion,Indian,3.3,200,Chetganj,Sigra,"20,Kamala Naagar ,behind Sigra Police Station,Varanasi",False,0
+The Belle Bakery,Beverages,NA,200,Sigra,Sigra,"Neel cottage,shop-8, Pared Kothi, Maldahiya, Chetganj, Varanasi, Uttar Pradesh 221002, India",True,0
+Cafebility,"Continental,Italian,Mexican",4.3,400,Chetganj,Chetganj,"Second Floor, Shop 9, Vinayak Plaza, Maldahiya, Chetganj, Varanasi, Uttar",False,0
+Kingdom of momos,"Chinese,Beverages",3.8,250,sigra,sigra,"N 10/52 D LAKHRAW, BLW ROAD,NEAR SHREE RAM NAGAR COLONY, MANDUADIH, VARANASI ",False,0
+Shahi Restaurant,"Chinese,North Indian,South Indian",3.9,500,Jahumandi,Sigra,"Dharamshala, Near Kamachha Road, Near , Godaulia, Varanasi",True,0
+NIC Natural Ice Creams,"Ice Cream,Desserts",4.4,120,Sigra,Sigra Mahmoorganj Rd,"Nic Natural Ice Creams, Shop No 59/79 -B-C- 1A, Ground Floor, SigraMahmoorganj, Road, Shivpura, Varanasi, Chhilupur, Varanasi,UP-221010",True,0
+Rahil Restaurant,"North Indian,Chinese,South Indian,Thalis,Snacks",3.9,350,Jahumandi,Sigra,"D-53/118-R, Rathyatra Crossing, Rathyatra, Sigra, Varanasi",False,0
+YADAV FOOD COURT,"Chinese,North Indian,Indian,Fast Food",NA,200,Sigra,Sigra,"MANDUADIH DPH,MARUADIH (CT) ,VARANASI TAHSIL, VARANASI ,UTTAR PRADESH-221103",False,0
+After Gym,"Salads,Thai",NA,250,Sigra,Sigra,".  C19/120-20K, Kamala Naagar ,behind Sigra Police Station,Varanasi",False,0
+INFINITY CAFE AND LOUNGE BY HELLY AND CHILLY,Indian,NA,200,Sigra,Sigra,"Shop No 22,2ND FLOOR,VINAYAK PLAZA,MALDHAIYA,VARANASI 221002",True,0
+The Vibe,"Indian,Chinese",3.7,500,Chetganj,Lanka,"Fourth Floor , IP Grand , Above Big Bazaar , Sigra , Varanasi Varanasi, District - Varanasi, STATE - Uttar Pradesh",False,0
+Maharaja Restaurant-Jagatganj,"North Indian,Mughlai,Biryani",3.7,300,Sigra,Chetganj,"C27/231 Jagatganj, Near Chetganj, Varanasi",False,0
+KHAMBEWALA,"South Indian,Chinese,Snacks",NA,600,Chetganj,Sigra,"C 19/187-1-A-1, Gulab Bagh, Sigra, Varanasi , District - Varanasi, STATE - Uttar Pradesh-221002",True,0
+FOODY ZONE,"Snacks,Chinese,Biryani",NA,250,Sigra,Sigra,"OUT SIDE VINAYAK PLAZA ,MALDAHIYA,VARANASI,HABIBPURA NAGAR NIGAM FOOD SAFETY ZONE-11,VARANASI UTTAR PRADESH-221010",False,0
+Spice Tadka Restaurant,"Indian,South Indian,Chinese,Tandoor",NA,300,Shivpur,Nadesar,"S 21/116 A-B Pared Kothi Cantt Varanasi, Nagar Nigam Food Safety Zone-4, Varanasi, Uttar Pradesh, 221002",False,0
+Four Course,"Indian,Mughlai",4.0,300,Chetganj,Sigra,FOUR COURSE SIGRA  BIG BAZAAR COMPOUND - 221102,False,0
+Baskin Robbins,Ice Cream,3.8,300,Chetganj,Sigra,"Baskin Robbins C19/87, Plot No. 5.K, Gulab Bagh Sigra, Near to Big Bazar. UP 221010",True,0
+The Handi House,"Chinese,Combo,Hyderabadi,Indian",NA,250,Maheshpur,IIT,"The Handi House, Opp Diesel Power House, Manduwadih, Varanasi, Uttar Pradesh, India",False,0
+The 3rd Floor Bar Stock Exchange,"North Indian,Italian,Chinese",NA,700,Chetganj,Sigra,"Hotel Varuna, 22, Gulab Bagh, Sigra, Opposite Sigra Police Station, Varanasi",False,0
+MRS KHANNA KI RASOI,"Indian,Chinese,Punjabi,Italian,Fast Food",3.3,200,Sigra,Sigra,"B 37/149 K-1 BIRDOPUR CHHITUPUR, Virdopur, Nagar Nigam Food Safety Zone-18, Varanasi, Uttar Pradesh - 221010",False,0
+Wife On Leave Restaurant,"North Indian,Chinese,Biryani",3.6,550,Chetganj,Sigra,"Near Fatman Road, Sigra, Varanasi",False,0
+My Table,"Indian,Chinese,Continental,Tandoor",3.7,400,Sigra,Sigra,"5th Floor, Tower-A, Vinayak Plaza, Varanasi, District - Varanasi, STATE - Uttar Pradesh",False,0
+The Blue Essence,"Chinese,Fast Food,Beverages",NA,250,Sigra,Sigra,"C 19/15 A 1 B BADSHAH BAGH COLONY,  Bhelupur, Nagar Nigam Food Safety  Zone-17, Varanasi, Uttar Pradesh - 221002",False,0
+BSB Local,"North Indian,Chinese,Continental,Pizzas",4.0,300,Sigra,Mahmoorganj,"D 64/29 F Bank Colony, Mahmoorganj, Varanasi",True,0
+Gourmet Ice Cream Cakes by Baskin Robbins,"Desserts,Ice Cream,Bakery",NA,300,Sigra,Sigra,"Baskin Robbins C19/87, Plot No. 5.K, Gulab Bagh Sigra, Near to Big Bazar. UP 221010",True,0
+Casamila Restaurant,"Chinese,North Indian,Mughlai,Biryani",NA,300,Sigra,Sigra,"D64/95, C, Madhopur varanasi nagar nigam food safety zone 15, sigra, UP, 221010",False,0
+KING JI MALAI CHAAP RESTAURANT,"Biryani,North Indian,Chinese",3.7,300,Sigra,Sigra,"D 57/60 C-M, SIGRA, Sigra, Nagar Nigam Food Safety Zone-15, Varanasi, Uttar Pradesh-221010",False,0
+ESSENCE PATISSERIE,Bakery,NA,350,Sigra,Sigra,"C 19/120 SIGRA PLOT NO 37 KAMLA  NAGAR, Sigra, Nagar Nigam Food Safety  Zone-15, Varanasi, Uttar Pradesh - 221001",True,0
+DAZZLING GRAN PALACIO,"Indian,Mexican,Italian,Salads",NA,300,Sigra,Sigra,"C-19/134, M-A,4TH FLOOR, SHASHTRI NAGAR SIGRA NAGAR NIGAM FOOD SAFETY ZONE-15 VARANASI UTTAR PRADESH-221010",False,0
+Nitin Point & Fast Food,North Indian,3.5,200,Sigra,Sigra,"D 58/20 B, Near WH Smith School, Sigra, Varanasi",True,0
+Barbeque Nation,"North Indian,Barbecue,Biryani,Kebabs,Mughlai,Desserts",3.9,600,Varanasi Cantonment,Chhawani Cantonment,"3rd Floor, JHV Mall, Tha Mall, Chhawani Cantonement, Varanasi 221002",False,0
+Taste King,"Fast Food,Snacks,Beverages",4.2,600,Nadesar,Nadesar,"S-19/1 Ground floor, Mint Rd, next to Maharani Art Palace, Nadesar, Varanasi, Uttar Pradesh",False,0
+Siddhi Vinayak Tasty Corner,"Street Food,North Indian",NA,100,Sigra,Sigra,OPP Sumangal near Sahid Udyan Sigra Varanasi 221010,True,0
+Giani's,"Bakery,Ice Cream,Beverages",NA,200,Sigra,Sigra,"D 64/95 C, Madhopur, Varanasi , Sigra, Nagar Nigam Food Safety Zone-15, Varanasi, Uttar Pradesh - 221010",False,0
+Chestnut Cafe & Bakery,"Bakery,Desserts",3.7,450,Bhelupur,Bhelupur,Sigra opp.sajan cinema,True,0
+The blue cafe,"Chinese,Indian,Italian",NA,300,Sigra,Sigra,"C 19/15 A 1 B BADSHAH BAGH COLONY,  Bhelupur, Nagar Nigam Food Safety Zone-17, Varanasi, Uttar Pradesh - 221002",False,0
+Hangover,"Chinese,Indian,Italian",NA,600,Sigra,Sigra,"Add. 5th Floor, Tower-A, Vinayk Plazza, varanasi,",False,0
+Ganesh Chat Bhandar,"Chaat,Chinese,Fast Food,Desserts",4.0,150,Mahmoorganj,Dr. Anand Xray and ultrasound,"Clinic, Rathyatra - Mahmoorganj Rd, near, Usha Gupta Ln, Mahmoorganj, Varanasi, Uttar Pradesh 221010, India",True,0
+Dawat-E-Khas,"North Indian,Chinese,Salads,Biryani",NA,500,Sigra,Sigra,"PLOT NO. 166, VIRAT M S, 177, CROSSING, Manduwadih, Varanasi, Uttar Pradesh 221008",False,0
+Adda,"North Indian,Chinese,Italian,Tandoor",NA,600,Sigra,Sigra,"5th Floor, Tower-A, Vinayk Plazza, varanasi,",False,0
+Timeout Cafe & Diner,"Indian,Chinese,Tandoor,Snacks",NA,400,Sigra,Sigra,"8XFR+PV Varanasi, Uttar Pradesh, India",False,0
+Sweet Truth - Cake and Desserts,"Bakery,Desserts,Beverages",4.1,450,Mahmoorganj,Mahmoorganj,"D63/13-A1, Mahmoorganj, Varanasi, Uttar Pradesh 221010",False,0
+Oven Story Pizza,Pizzas,3.7,400,Mahmoorganj,Mahmoorganj,"D63/13-A1, Mahmoorganj, Varanasi, Uttar Pradesh 221010",False,0
+Faasos - Wraps & Rolls,"Fast Food,Snacks,North Indian,Indian,Healthy Food,Desserts,Beverages",3.9,200,Mahmoorganj,Mahmoorganj,"D63/13-A1, Mahmoorganj, Varanasi, Uttar Pradesh 221010",False,0
+Baati Chokha,"Indian,Snacks",3.9,200,Teliyabag,Chetganj,"Anand Mandir Cinema, Telibagh, Dashaswmedh Road, Varanasi",True,0
+Sri Annapurna Sweets And Snacks,"Sweets,Snacks,South Indian,Bakery",3.9,400,Sigra,Sigra,"OD 59/103 D-1KH, Sigra, Varanasi",True,0
+Rasna Family Restaurant,"Chinese,North Indian",4.0,500,Jahumandi,Sigra,"Near Rathyatra Crossing, Ramapura Luxa, Sigra, Varanasi",True,0
+NEW BABA BANGALI FAST FOOD,"Fast Food,Chinese,South Indian",NA,200,Sigra,Sigra,"B-37/122-C-1, Birdopur, Mahmoorganj. Varanasi, Nagar Nigam Food Safety Zone-18, Varanasi, Uttar Pradesh-221010/NEW BABA BANGALI SWEET",True,0
+Sri Annapurna Restaurant(Ramkatora),"South Indian,Thalis,North Indian,Chinese",4.0,350,Jaitpura,Ramkatora,"J-12/16-A, Ramkatora, Jaitpura, Varanasi",False,0
+The Benaras Bakery,"Desserts,Snacks",3.2,250,Sigra,Sigra,"Shakti Plaza Complex, Sigra Crossing, Sigra, Varanasi, Uttar Pradesh 221010, India",True,0
+Bangali Fish Curry And More,"Bengali,Biryani,Sweets",NA,400,IIT,IIT,"B 38/55 69 sheel nager varanasi, Ranipur, Nagar Nigam Food Safety Zone-15, Varanasi, Uttar Pradesh - 221010",False,0
+Tandoori Night's With Kabab,Indian,NA,200,IIT,IIT,38/55 69 B sheel nager tulsipur mahmoorganj Varanasi -221010,False,0
+RAJASTHANI MAHARAJA FAST FOOD RESTAURANT,"North Indian,South Indian,Chinese,Snacks,Fast Food",NA,250,Sigra,Sigra,"C-4/44,SARAI  GOWARDHAN,CHETGANJ,VARANASI, Sarai  Gowardhan, Nagar Nigam Food Safety  Zone-14, Varanasi, Uttar Pradesh - 221001",True,0
+UBQ by Barbeque Nation,"North Indian,Barbecue,Biryani,Kebabs,Mughlai,Desserts",3.7,300,Varanasi Cantonment,JHV Mall,"3rd Floor, JHV Mall, The Mall Road, Varanasi Cantt, Varanasi - 221002. Uttar Pradesh",False,0
+Keshari Fast Food,"North Indian,Chinese",3.5,500,Bhelupur,Sigra,"B21/1,Shop no 13,Rathyatra Market,Varanasi.",True,0
+Chatpata Bati Chokha,Indian,2.7,100,Sigra,Sigra,"D 59/4 rathayatra mahmoorganj road , Lahartara, Nagar Nigam Food Safety Zone-15, Varanasi, Uttar Pradesh, 221010",True,0
+LunchBox - Meals and Thalis,"North Indian,Chinese,Desserts,Biryani",4.0,200,Mahmoorganj,Mahmoorganj,"D63/13-A1, Mahmoorganj, Varanasi, Uttar Pradesh 221010",False,0
+Vada Grill,"Maharashtrian,North Indian,Fast Food,Street Food",4.0,100,Mahmoorganj,Sigra,"Imperial Building, Opposite Kuber Complex Rathyatra (in front of Keshav Paan), Sigra, Varanasi",True,0
+Champaran Matka Mutton Haveli,Indian,1.9,200,Sigra,Sigra,"38 / 55 69 Sheel Nagar, Tulsipur, Ranipur, Mahmoorganj, Varanasi 221010",False,0
+The Madhur Milan,"Sweets,Desserts,Snacks,Navratri Special",3.7,200,Sigra,Mahmoorganj,"Sigra-Mahmoorganj Road, Mahmoorganj, Varanasi",True,0
+Treat Cafe & Dine,"Indian,Chinese",4.0,500,Chaukaghat,Nadesar,"S19/56-57,  Varuna Bridge Crossing, Nadesar, Varanasi",False,0
+Hira Sweets Express,"North Indian,South Indian,Chinese,Continental,Bakery,Street Food,Sweets,Desserts,Beverages",4.0,600,Varanasi Cantonment,Nadesar,"Counter No 4, Second Floor, JHV Mall, Mall Road, Cantonment, Varanasi 221002",False,0
+Spicy Daawat,"North Indian,South Indian,Chinese",NA,350,Mahmoorganj,Mahmoorganj,"Pooja Residency, Near Passport Office, Mahmoorganj, Varanasi",False,0
+Basant cafe,"North Indian,Chinese,South Indian,Continental,Pizzas,Snacks",NA,280,Sigra,Sigra,"C 9/169, Habibpura, Chetganj, Varanasi",False,0
+Cake Villa,Bakery,NA,400,IIT,IIT,"NEAR POWER HOUSE DLW ROAD MANDUADIH, Maruadih (CT), Varanasi Tahsil, Varanasi, Uttar Pradesh - 221103",False,0
+Taste Of	Punjab,"North Indian,Chinese,Punjabi,Desserts",3.6,200,Mahmoorganj,Sigra,"D-63/12, B.M.A ,Dayal enclave , opposite Galaxy hospital ,Mahmoorganj , , Varanasi Tahsil, Varanasi, Uttar Pradesh-221010",False,0
+Mamma Mia Biryani,"Biryani,Mughlai,North Indian",3.5,400,Kakarmata,Mahmoorganj,N-10/36A Lakhraw Bajardiha Road Varanasi,False,0
+Pure Veg Meals by Lunchbox,"North Indian,Desserts,Biryani",4.1,200,Mahmoorganj,Mahmoorganj,"D63/13-A1, Mahmoorganj, Varanasi, Uttar Pradesh 221010",True,0
+Cafe Coffee Day,"Beverages,Snacks,Desserts",4.0,300,Varanasi Cantonment,JHV MALL VARANASI,"Inside JHV Mall, Cantonment Area, Mall Road,PLOT NO. S-20/55-1, MALL ROAD",False,0
+RAJESH SWEETS & RESTAURANT,"South Indian,Snacks,Beverages",3.7,400,Sigra,Sigra,"C 7/286 SAINPURA VARANASI NAGAR NIGAM FOOD SAFETY ZONE-13 , VARANASI UTTAR PRADESH-221001",True,0
+Matakawala Biryani & Mutton Hundy,"Biryani,Indian,Chinese,Tandoor,Desserts",NA,200,Lanka,Lanka,B 38/55 69 sheel nager varanasi,False,0
+The Yellow Chilli,"Mughlai,Biryani,North Indian,Chinese,Desserts",3.7,500,Mahmoorganj,Mahmoorganj,"1st Floor, Zorba Tower, Mahmoorganj, Varanasi",False,0
+Chestnuts,"Snacks,Desserts,Bakery",3.7,450,Rathyatra ,Sigra,"Shop 14, Rathyatra Market, Near Sigra, Varanasi",True,0
+Chow Mow Chinese,"Chinese,Fast Food,Snacks,Street Food",3.1,200,Sigra,Sigra,"C 27/231 JAGATGANJ VARANASI, 221002",False,0
+Assi Baker's,"Bakery,Desserts",NA,200,Nadesar,"Pandeypur, Varanasi","S 15/3-1-k-1 Ghausabad Varanasi, Nadesar, Nagar Nigam Food Safety Zone-4, Varanasi, Uttar Pradesh - 221002",False,0
+Biryani Delight,"Beverages,Biryani,Desserts",NA,300,Sigra,Sigra,"Zorba Tower,1st Floor D-63/5-A-R,Sigra Mahmoorganj Road, Varanasi, 221010",False,0
+Hyderabadi Dum Biryani House,"Biryani,North Indian,Indian",1.3,200,Lanka,Lanka,"B 38/55 69 sheel nager varanasi, Ranipur, Nagar Nigam Food Safety Zone-15, Varanasi, Uttar Pradesh - 221010",False,0
+Faasos' Signature Wraps & Rolls,Snacks,NA,350,Mahmoorganj,Mahmoorganj,"D63/13-A1, Mahmoorganj, Varanasi, Uttar Pradesh 221010",False,0
+THE AQUA HOTEL FOUR ELEMENT,Indian,NA,300,Manduwadih,IIT,"Araj No. 194/1, Manduadih, D.L.W Road Near Manduadih Railway Station, Varanasi",False,0
+FOOD SQUARE,"Chinese,Indian",3.8,300,Nadesar,Nadesar,"S 18/38 A-32, MINT HOUSE NADESAR, VARANASI , Nadesar, Nagar Nigam Food Safety Zone-4, Varanasi, Uttar Pradesh, 221002",False,0
+Wow 99 Only,"North Indian,Indian,Chinese,Snacks,Combo",NA,300,IIT,IIT,"38/55, 69, B, Sheel Nagar, Tulsipur, Ranipur, Mahmoorganj, Varanasi",False,0
+Bangali Fish Curry & More,"North Indian,Seafood,Sweets",NA,200,IIT,IIT,38/56 69 B sheel nager tulsipur mahmoorganj Varanasi -221010,False,0
+ROYAL CHINESE,"Chinese,North Indian",NA,300,Sigra,Sigra,"B 38/55 69 SHEEL NAGAR, TULSIPUR, RANIPUR, MAHMOORGANJ,VARANASI,UTTAR PRADESH - 221010",False,0
+The Biryani Life,"Biryani,Hyderabadi,Lucknowi,North Indian,Mughlai,Desserts",NA,250,Mahmoorganj,Mahmoorganj,"D63/13-A1, Mahmoorganj, Varanasi, Uttar Pradesh 221010",False,0
+The Lemon Grille,Chinese,3.7,250,Sigra,Sigra,"C21/21-6, Kail Garh, Chetganj, Varanasi, Uttar Pradesh 221001, India",False,0
+Sahi Dawat,"Biryani,North Indian,Fast Food",NA,200,IIT,IIT,"B 38/55 69 sheel nager varanasi, Ranipur, Nagar Nigam Food Safety Zone-15, Varanasi, Uttar Pradesh - 221010",False,0
+Upendra Kumar,"Chinese,Indian",NA,200,IIT,IIT,38/55 69 B sheel nager tulsipur mahmoorganj Varanasi -221010,False,0
+Champaran Mutton Hundy & Biryani,Indian,1.2,300,IIT,IIT,"""38/56 69 B sheel nager tulsipur mahmoorganj Varanasi -221010",False,0
+Sunrise Food And Shoppe,"North Indian,Chinese,South Indian",4.0,300,Chaukaghat,Nadesar,"S-15/1, Near Prakash Petrol Pump, Ghausabad, Nadesar, Varanasi",True,0
+LONDON LIVE,"Indian,Chinese,North Indian",NA,350,Sigra,Sigra,"C 27/249-23, JAGATGANJ, VARANASI , Nagar Nigam Food Safety Zone-12, Varanasi",False,0
+Sita Rasoi,North Indian,NA,200,MADHAULI,OPP TRUE VALUE SHOP," ARAZI 237/3 OPP CHRIST SCHOOL, OPP TRUE VALUE SHOP",True,0
+Deshi Ghee Bati & Hundy Mutton,"Fast Food,North Indian,Chinese",NA,100,IIT,IIT,"38/55 69 B sheel nager tulsipur, Ranipur, mahmoorganj Varanasi -221010",False,0
+TASTE OF KASHI,"Indian,Chinese",NA,200,Sigra,Kasturba Nagar,"D 57/58 12 A Kasturba Nagar, Sigra, Varanasi 221010",False,0
+Biryani Basket,Biryani,NA,250,Sigra,Sigra,"3rd Floor, Swastik City Centre, Rathyatra, Sigra, Varanasi 221001",False,0
+Kings rolls,Snacks,NA,150,Sigra,Sigra,N 16/121 Sudamapur Varanasi,False,0
+Madhur milan,Sweets,3.8,200,Sigra,Sigra,"D 59/103-H-K, Sigra, Varanasi 221002",True,0
+Devanshee City Restaurant,"North Indian,South Indian,Chinese,Biryani,Thalis",3.5,300,Jaitpura,Chetganj,"Lauhabri Crossing, Jagatganj, Near , Chetganj, Varanasi",False,0
+CRISPY POINT,"Snacks,Chinese,South Indian",NA,149,Sigra,Sigra,"D59/334A-1, Mahmoorganj, Varanasi, Uttar Pradesh 221010, India",True,0
+Muskan Kalika Restaurant(Teliyabagh),"North Indian,Mughlai,Chinese",3.4,350,Chaukaghat,Ashapur,"S  12/35  Piyariya  Pokhari,  Teliyabagh,  Varanasi,  -  221001",False,0
+7 Days Fry Restaurant,"Biryani,Pizzas,Chinese,North Indian",NA,300,Lehertara Industrial Estate,Lohta road,"NEAR SANJAY MEMORIAL WOMEN'S COLLEGE & VARANASI PUBLIC SCHOOL, KERAKATPUR - CHANDPUR, LOTHA ROAD, VARANASI-221107, Kerakatpur, Varanasi Tahsil, Varanasi, Uttar Pradesh-221107",False,0
+THE TASTE OF VARANASI,"Indian,South Indian,Chinese",NA,99,Sigra,Sigra,"B38/J3, Mahmoorganj Rd,  Varanasi, Uttar Pradesh 221010, India",False,0
+Karims,"Indian,Mughlai,Tandoor,Kebabs",3.5,200,Varanasi Cantonment,Nadesar,"2ND FOOD FORUM FOOD COURT JHV MALL, Mint Road, Chhawani Cantonment, Varanasi, Uttar Pradesh, 221002",False,0
+Lemon Grass Fine Dine & Lounge Bar,"North Indian,Chinese",3.9,750,Chetganj,Chetganj,"21/89 E, Mahamandal Nagar, Lahurabir, Chetganj, Varanasi",False,0
+Basant Bahar Delight,"Continental,Snacks,Beverages,Desserts",NA,200,Chetganj,Chetganj,"C7/285, Shanti Tower, Ramakanth Nagar, Chetganj, Varanasi",True,0
+THE MILK BAR CAKE SHOP,Bakery,NA,250,Sigra,Sigra,C 28/58-A TELIYABAGH HABIBPURA NAGAR NIGAM FOOD SAFETY ZONE-11 VARANASI UTTAR PRADESH- 221002,True,0
+Fish corner,"Chinese,Mughlai,North Indian",3.6,300,Sigra,Sigra,"shop no 21, ratyatra varanasi, nagar nigam food safety zone 15, varanasi, UP, 221010",False,0
+Holy Chopsticks,"Thai,Chinese",3.8,300,Nadesar,Nadesar,"S-17/317 Nadesar Main Road, Near Badi Masjid, Nadesar, Varanasi",False,0
+House Of Punjab,"North Indian,Mughlai,Snacks,Chinese",3.8,350,Varanasi Cantonment,Nadesar,"S-20/51-1-n Varuna Bridge, Cantonment, Varanasi 221002",False,0
+Tandoor Villa,"Mughlai,Indian,Biryani",3.5,400,Nadesar,Nadesar,"Near SBI Atm, Main Road, Nadesar, Varanasi",False,0
+Pet Pooja Food Corner,"North Indian,Biryani",NA,300,Sigra,Sigra,"	 38/55 69  Sheel Nagar, Tulsipur, Mahmoorganj, Varanasi, Uttar Pradesh 221010",False,0
+The Taste Factory,"North Indian,Italian,Chinese",3.9,450,Mahmoorganj,Mahmoorganj,"mahmoorganj road,near ashirvad hospital,mahmoorganj",False,0
+London Pizza Hut,"Italian,Pizzas,Pastas,Snacks",NA,300,IIT,IIT,"B 38/55 69 sheel nager varanasi, Ranipur, Nagar Nigam Food Safety Zone-15, Varanasi, Uttar Pradesh - 221010",False,0
+Bengali Fish Curry & Biryani Corner,"Biryani,Bengali,North Indian",NA,200,Lanka,Lanka,"B 38/55 69 sheel nager varanasi, Ranipur, Nagar Nigam Food Safety Zone-15, Varanasi, Uttar Pradesh - 221010",False,0
+wok from heaven,"Chinese,Snacks",NA,300,Sigra,Sigra,"3rd Floor, Swastik City Centre, Rathyatra, Sigra, Varanasi 221001",False,0
+Sanjay Chat Corner,"Street Food,North Indian,Chaat",NA,100,Mahmoorganj,IIT,"11/B 60-27-1 Ranipur Mahmoorganj Chhitupur,  Varanasi, Uttar Pradesh-221010",True,0
+UTSAV SWEETS,Sweets,NA,500,Sigra,Sigra,"C 20/1-1  RAMAKANT NAGAR COLONY , PISHACHMOCHAN VARANASI , JAGATGANJ NAGAR NIGAM FOOD SAFETY ZONE-11, VARANASI UTTAR PRADESH-221001",True,0
+Goli Vada Pav,"Street Food,Snacks",NA,200,Jaitpura,Bhelupur,"J 12/34-1-K Dhoop Chandi Jaitpura, Varanasi, Uttar Pradesh 221001, India",True,0
+Momo Chow,Chinese,4.1,300,Nadesar,Nadesar,"S 17/317 Nadesar, Varanasi, District - Varanasi, STATE - Uttar Pradesh",False,0
+Waah Mumbai,"Maharashtrian,Pizzas,Pastas,Fast Food,Rajasthani",3.6,200,Jahumandi,Mahmoorganj,"Ground Floor, Kuber Complex, Rathyatra Chauraha",True,0
+Kasora,"Indian,Chinese,Tandoor",3.5,400,Lehertara Industrial Estate,IIT,"Araji No: Mi. 225, Chauhaddi- East: House of Rajendra Patel etc, West: House of Dashrath, North: Vacant land of Shapath Karta Gadh, South: Madauli trimuhani to railway crossing via churamanpur, mandua",False,0
+The Good Bowl,"North Indian,Biryani,Chinese,Asian,Pastas,Desserts",4.2,400,Mahmoorganj,Mahmoorganj,"D63/13-A1, Mahmoorganj, Varanasi, Uttar Pradesh 221010",False,0
+K CAKE 65 BAKE HOUSE,Bakery,NA,400,Sigra,Sigra,"0E12 PISHACHMOCHAN, NAGARNIGAM  COLONY, Habibpura, Nagar Nigam Food  Safety Zone-11, Varanasi, Uttar Pradesh -  221010",True,0
+Firangi Bake,"Italian,Mexican,Pastas",4.1,400,Mahmoorganj,Mahmoorganj,"D63/13-A1, Mahmoorganj, Varanasi, Uttar Pradesh 221010",False,0
+Muskan Roll and Fast Food(Teliyabagh),"North Indian,Mughlai,Biryani,Chinese",NA,350,Chaukaghat,Ashapur,"S  12/35  Piyariya  Pokhari,  Teliyabagh,  Varanasi,  -  221001",False,0
+HOTEL RIO BENARAS,"Beverages,Desserts,Indian",NA,250,Nadesar,Nadesar,"S 20/53-55-56, BUDDHA VIHAR COLONY,CANTONMENT,VARANASI , Nagar Nigam Food Safety Zone-4,Varanasi, Uttar Pradesh-221002",False,0
+Mummy Yummy Biryani,"Biryani,Tandoor,Kebabs",NA,200,IIT,IIT,"""38/55 69 B sheel nager tulsipur mahmoorganj Varanasi -221010",False,0
+Litti Chokha Restaurant,Indian,NA,200,IIT,IIT,38/55 69 B sheel nager tulsipur mahmoorganj Varanasi -221010,False,0
+Canton Royale Restaurant - Hotel Surya,"North Indian,Continental,Chinese,Punjabi,Asian",4.2,500,Varanasi Cantonment,Nadesar,"S.20/51 A-5 The Mall Road, Nadesar , Varanasi",False,0
+HOTEL THE WESTINN,"Indian,Chinese,Beverages,Desserts",NA,500,Nadesar,Nadesar,"S 20/52-2-A-1 NEPALI KOTHI, VARUNA BRIDGE, CANTONMENT, VARANASI NAGAR NIGAM FOOD SAFETY ZONE-4, VARANASI UTTAR PRADESH-221001",False,0
+MOLECULE GASTRO BAR KITCHEN,"North Indian,Pizzas,Pastas,Biryani,Desserts",4.1,295,Sigra,Sigra,"Mahmoorganj, Varanasi, Uttar Pradesh 221010, India",False,0
+Journe,"Chinese,Continental,European,Salads,Desserts",NA,300,Sigra,Sigra,"Add.  Plot NO. 511/2, Cristian Colony, Sigra , Varanasi",False,0
+Punjabi Kitchen,Indian,NA,250,Sigra,Sigra,"Near Sarin Inn Hotel, Sigra, Varanasi, Uttar Pradesh 221010, India",True,0
+Kashi Golgappa House,"Chaat,Snacks",NA,100,IIT,IIT,"Add. 38/55 69 B sheel nager tulsipur, Ranipur, mahmoorganj Varanasi -221010",False,0
+Banarasi Lassi Mishrambu & Thandai,Beverages,2.3,200,IIT,IIT,38/56 69 B sheel nager tulsipur mahmoorganj Varanasi -221010,False,0
+Zeenat Restaurant,"North Indian,Mughlai,Biryani",NA,300,Sigra,Sigra,"S 13/67, Teliyabagh, Jagatganj, Andhrapull, Chaukaghat, Varanasi - 221002",False,0
+Tasty Tiffin Service,"Fast Food,North Indian",NA,200,IIT,IIT,"B 38/55 69 sheel nager varanasi, Ranipur, Nagar Nigam Food Safety Zone-15, Varanasi, Uttar Pradesh - 221010",False,0
+MYSORE DOSAWALA,South Indian,NA,250,Sigra,Sigra,"B 38/55 69 sheel nager varanasi, Ranipur,  Nagar Nigam Food Safety Zone-15,  Varanasi, Uttar Pradesh - 221010",True,0
+CAKE POINT,Bakery,NA,500,Sigra,Sigra,"HOUSE NO.D-64/26A MAA RAJESHWARI  NAGAR MADHOPUR SIGRA VARANASI U.P-  221002, Sigra, Nagar Nigam Food Safety  Zone-15, Varanasi, Uttar Pradesh - 221002",True,0
+THE BAKER'S TALES,"Bakery,Desserts",NA,250,Sigra,Sigra,"C-9/232-1, HABIBPURA, HABIBPURA,  Habibpura, Nagar Nigam Food Safety  Zone-11, Varanasi, Uttar Pradesh - 221001",True,0
+Mutton Handi and Biryani King,Biryani,NA,200,Mahmoorganj,Sigra,"38 / 55 69 Sheel Nagar, Tulsipur, Ranipur, Mahmoorganj, Varanasi-221010",False,0
+Momo's king,"Chinese,Snacks,Beverages",NA,200,Lanka,Lanka,"B 38/55 69 sheel nager varanasi, Ranipur, Nagar Nigam Food Safety Zone-15, Varanasi, Uttar Pradesh - 221010",False,0
+Sree Ayappa Dosa Center,"South Indian,Chinese",NA,200,IIT,IIT,"""38/56 69 B sheel nager tulsipur mahmoorganj Varanasi -221010""",False,0
+Amritsari Kulcha & Momos Hut,"Chinese,Snacks",NA,100,IIT,IIT,""" 38/55 69 B sheel nager tulsipur, Ranipur, mahmoorganj Varanasi -221010",False,0
+BIHARI LITTI CHOKHA,"Bihari,North Indian",NA,250,Sigra,Sigra,"B 38/55 69 sheel nager varanasi, Ranipur,  Nagar Nigam Food Safety Zone-15,  Varanasi, Uttar Pradesh - 221010",True,0
+Pizza Plaza,"Italian,Fast Food,Snacks",NA,500,IIT,IIT,Add. 38/55 69 B sheel nager tulsipur mahmoorganj Varanasi -221010,False,0
+Mushkan Kalika Family Restaurant,"Mughlai,North Indian,Biryani,Chinese",3.3,350,Chaukaghat,Lanka,"Pandit S  12/35  Piyariya  Pokhari,  Teliyabagh,  Varanasi,  -  221001Mohan Malviya Road, Near Ravidas Gate, Near Lanka Thana, Lanka, Varanasi",False,0
+MORNING BREAKFAST,"South Indian,Snacks",NA,200,Sigra,Sigra,"Mahmoorganj, Tulsipur, Nagar Nigam  Food Safety Zone-18, Varanasi, Uttar  Pradesh - 221010",True,0
+Roll King,"Snacks,Indian",NA,100,IIT,IIT,"38/55 69 B sheel nager tulsipur, Ranipur, mahmoorganj, Varanasi -221010",False,0
+Matkawala Biryani & Mutton House,"North Indian,Chinese,Biryani,Seafood,Desserts",NA,200,IIT,IIT,"B 38/55 69 sheel nager varanasi, Ranipur, Nagar Nigam Food Safety Zone-15, Varanasi, Uttar Pradesh - 221010",False,0
+Virat Kalika Deshi Dhaba,North Indian,NA,200,IIT,IIT,38/56 69 B sheel nager tulsipur mahmoorganj Varanasi -221010,False,0
+DAWAT SHAHI BIRYANI,"Biryani,Indian,North Indian",NA,350,Lanka,Lanka,"B 38/55 69 sheel nager varanasi, Ranipur, Nagar Nigam Food Safety Zone-15, Varanasi, Uttar Pradesh - 221010",False,0
+Sree Tirumala Dosa Corner,"South Indian,Chinese",NA,200,IIT,IIT,38/56 69 B sheel nager tulsipur mahmoorganj Varanasi -221010,False,0
+AMERICAN & BELGIUM WAFFLE CO.,"Beverages,Desserts",NA,300,Sigra,Sigra,"B 38/55 69 sheel nager varanasi, Ranipur,  Nagar Nigam Food Safety Zone-15,  Varanasi, Uttar Pradesh - 221010",True,0
+Tandoori Momo's Mahal,Chinese,NA,100,IIT,IIT,"Add. 38/55 69 B sheel nager tulsipur, Ranipur, mahmoorganj Varanasi -221010",False,0
+ROYAL BIRYANI IN MATKA,"Biryani,North Indian,Sweets",NA,300,Sigra,Sigra,"B 38/55 69 sheel nager varanasi, Ranipur,  Nagar Nigam Food Safety Zone-15,  Varanasi, Uttar Pradesh - 221010",False,0
+Shree Sagar Pure Veg,Indian,NA,200,Mahmoorganj,Sigra,"38 / 55 69 Sheel Nagar, Tulsipur, Ranipur, Mahmoorganj, Varanasi",False,0
+Dream Of Donuts & Milkshake,Beverages,NA,300,IIT,IIT,"38/55 69B, Opposite Royal Residency, Sheel Nager, Tulsipur, Ranipur, Mahmoorganj, Varanasi",False,0
+PASTA & PIZZA PALACE,"Italian,Fast Food",NA,250,Sigra,Sigra,"B 38/55 69 sheel nager varanasi, Ranipur,  Nagar Nigam Food Safety Zone-15,  Varanasi, Uttar Pradesh - 221010",False,0
+CHATOREZZ RESTAURANT,"Chinese,Indian,Italian,Beverages",NA,200,Nadesar,Nadesar,"C27/74-A-E, JAGATGANJ, VARANASI  Bandhu Kacchibagh, Nagar Nigam Food Safety Zone-7, Varanasi, Uttar Pradesh 221002",False,0
+Pan Asian Delight,"Chinese,Thai,North Indian",NA,350,Sigra,Sigra,"Zorba Tower,1st Floor D-63/5-A-R,Sigra Mahmoorganj Road, Varanasi 221010",False,0
+Student cafe,"Pizzas,Chinese",NA,200,Lanka,Lanka,"Add. Plot no. 142 a lane no. 8 ravindrapuri colony, bhelupur Varanasi-221005",False,0
+SRK Spicy Roll King,"Chinese,North Indian",NA,200,IIT,IIT,38/55 69 B sheel nager tulsipur mahmoorganj Varanasi -221010,False,0
+BALAJI CHOLE BHATURE & MOMO'S,"Chinese,North Indian",NA,350,Sigra,Sigra,"B 38/55 69 sheel nager varanasi, Ranipur,  Nagar Nigam Food Safety Zone-15,  Varanasi, Uttar Pradesh - 221010",False,0
+Spicy Chicken And Kabab House,"Indian,Seafood",NA,200,IIT,IIT,38/55 69 B sheel nager tulsipur mahmoorganj 38/55 69 B sheel nager tulsipur mahmoorganj Varanasi -221010,False,0
+Tandoori Chai Cafe,Beverages,NA,200,IIT,IIT,"B 38/55 69 sheel nager varanasi, Ranipur, Nagar Nigam Food Safety Zone-15, Varanasi, Uttar Pradesh - 221010",True,0
+Hundy Mutton And Biryani King,"North Indian,Biryani",NA,300,Lanka,Lanka,"B 38/55 69 sheel nager varanasi, Ranipur, Nagar Nigam Food Safety Zone-15, Varanasi, Uttar Pradesh - 221010",False,0
+Spicy bites,"Pizzas,Chinese,Snacks",NA,200,Lanka,Lanka,"B 38/55 69 sheel nager varanasi, Ranipur, Nagar Nigam Food Safety Zone-15, Varanasi, Uttar Pradesh - 221010",False,0
+Pizza & Momo's Magic Cafe,Chinese,NA,350,Lanka,Lanka,"B 38/55 69 sheel nager varanasi, Ranipur, Nagar Nigam Food Safety Zone-15, Varanasi, Uttar Pradesh - 221010",False,0
+The Dilli Durbar,"Indian,North Indian,Chinese,Snacks",NA,300,Sigra,Sigra,"B21/1 shop no. 12 Rathyatra Market, Varanas 221010",False,0
+Momos N Chinese,"Chinese,Snacks,Beverages",NA,150,Sigra,Sigra,"Imperial Building, Rathyatra Sigra Rd, Mahmoorganj, Varanasi, Uttar Pradesh 221010, India",False,0
+Mangi Ferra Cafe - Hotel Surya,"Chinese,Continental,American,North Indian,Pan-Asian",NA,700,Varanasi Cantonment,Nadesar,"Hotel Surya, 20/51, A-5, The Mall Road, Varuna Bridge, Nadesar, Varanasi",False,0
+Mishra Marawari Bhojnalaya,Indian,3.2,200,Ramapura Luxa,luxa,D47/184 rampura luxa road  Area - luxa.,False,0
+Cake 24x7.COM,"Bakery,Desserts",NA,1100,Sigra,Sigra,"HOUSE NO.D-64/26A MAA RAJESHWARI  NAGAR MADHOPUR SIGRA VARANASI U.P-  221002, Sigra, Nagar Nigam Food Safety  Zone-15, Varanasi, Uttar Pradesh - 221002",True,0
+Vansh's Kitchen,"North Indian,Chinese,South Indian,Thalis",3.6,350,Kailashpuri Colony,Sigra,"Oppsite Care Hospital, Kailashpuri Colony, Sunderpur Road, Bhikaripur, Varanasi",False,0
+jeenat Restaurant Teliyabag,"Indian,North Indian,Biryani,Snacks,Beverages",NA,300,Sigra,Sigra,"S  12/35  Piyariya  Pokhari,  Teliyabagh,  Varanasi,  -  221001",False,0
+Cafe Fika by POSHTEL,"Pizzas,Beverages",NA,600,Nadesar,Nadesar,"72 Buddha Vihar Colony, Cantonment, Varanasi cantonment, Varanasi, Uttar Pradesh 221002, India",False,0
+THE LANDMARK HOTEL,Indian,NA,600,Sigra,Sigra,"B 38/7-3 OPP.AKASHWANI, MAHMOORGANJ VARANASI,NAGAR NIGAM FOOD SAFETY ZONE-18 VARANASI UTTAR PRADESH-221010",False,0
+Chakhna Central,Fast Food,NA,250,Sigra,Sigra,"3rd Floor, Swastik City Centre, Rathyatra, Sigra, Varanasi 221001",False,0
+The Shaa Chicken,"Indian,Chinese,Beverages",NA,200,Sigra,Sigra,"c27/189 c jagat ganj,varanasi",False,0
+SANGEETA'S KITCHEN,"North Indian,Biryani,Chinese",NA,500,sigra,Mahmoorganj,"0N 10/52- D-KHA-A-1 LAKHARAOVNS,,  Ranipur, Nagar Nigam Food Safety  Zone-15, Varanasi, Uttar Pradesh - 221109",False,0
+Cake Sagar,Desserts,NA,500,Chaukaghat,Chetganj,"Beside Sagar Fast Food, Jagatganj, Chetganj, Varanasi",True,0
+Meal Tray,"North Indian,Biryani,Desserts",NA,300,Sigra,Sigra,"3rd Floor, Swastik City Centre, Rathyatra, Sigra, Varanasi 221001",False,0
+CAFETERIA,"Fast Food,Snacks,Beverages",NA,200,Sigra,Sigra,"C20/5-72, Ramakant Nagar Colony. Pisach Mouchan, Varanasi, Nagar Nigam Food Safety Zone-11, varanasi uttar pradesh. 221010",False,0
+Charcoal (fine dining),"Indian,Chinese,Oriental,Snacks",NA,250,Sigra,Sigra,"Plot No.14 SANT RAGHUBER NAGAR  MAHMOORGANJ VARANASI, Nagar Nigam  Food Safety Zone-15, Varanasi, Uttar  Pradesh-221010",False,0
+CAFE 55,"Fast Food,Snacks,Chinese,Italian",NA,300,Nadesar,Nadesar,"S 20/53-55-56, BUDDHA VIHAR COLONY,CANTONMENT,VARANASI , Nagar Nigam Food Safety Zone-4,Varanasi, Uttar Pradesh-221002",False,0
+New Sagar Fast Food,"Indian,Snacks,Chinese",NA,250,Sigra,Sigra,"C27/233 Jagatganj, Near Chetganj, Varanasi",False,0
+TCB Pizza,"Pizzas,Chinese,Snacks,Fast Food",NA,300,Sigra,Sigra,"plot no 22, sant Raghu bir Nagar Varanasi,221010, Nagar Nigam food safety zone 15varanasi Uttar Pradesh",False,0
+Coriander Blend Drinkery,"Beverages,Fast Food,Snacks",NA,300,Sigra,Sigra,"plot no 22, sant Raghu bir Nagar Varanasi,221010, Nagar Nigam food safety zone 15varanasi Uttar Pradesh",False,0
+Hotel India -Cafe 65,"North Indian,Chinese,Kebabs,Biryani,Desserts",NA,350,Nadesar,Nadesar,"59, Patel Nagar, Cantt, Nadesar, Varanasi   221002",False,0
+Dil ka Dabba,Desserts,NA,300,IIT,IIT,"Rajkeey Mahila Mahavidyalya,  FCI Godam gate, near manduadih station Varanasi ",True,0
+Sandesh Sweet And Restaurant,"North Indian,South Indian,Sweets,Chinese,Snacks",3.8,350,Golghar,"Golghar, Nadeshar","Sandesh Sweets and Restaurant Golghar,kachari,Varanasi 221002",True,0
+Chinese	Express,Chinese,3.6,300,Chaukaghat,Nadesar,"S	19/74 varuna	Pull,	Varanasi",False,0
+KGN FOOD HOUSE,"Chinese,Snacks,Fast Food",NA,200,Sigra,Sigra,"B38/217 A-6,Tulshipur, Varanasi, Tulsipur ,Nagar Nigam food Safety zone-18, Varanasi Uttar Pradesh 221005",False,0
+Grameen Kulfi,"Ice Cream,Desserts",4.4,120,Sigra,Sigra Mahmoorganj Rd,"Nic Natural Ice Creams, Shop No 59/79 -B-C- 1A, Ground Floor, SigraMahmoorganj, Road, Shivpura, Varanasi, Chhilupur, Varanasi,UP-221010",True,0
+The burning fire,"Chinese,Pastas",NA,400,siigra,mahmoorganj,"N 11/99 F-5 A, Ranipur Mahmoorganj,  Ranipur, Nagar Nigam Food Safety Zone-15, Varanasi, Uttar Pradesh - 221010",False,0
+Food Express,"Indian,Mughlai,Chinese,Biryani",3.9,350,Sikraul,Kachahari,"Beside Jalan's Retail Store, Kachahari Chauraha, Kuchari, Nadesar, Varanasi",False,0
+Ajay Sweets,Sweets,4.1,150,Chaukaghat,Nadesar,"Varuna Bridge, Varanasi, Uttar Pradesh, India",False,0
+MISHRAZ KITCHEN,"North Indian,Chinese",3.7,250,Sigra,Kakarmatta,"N 10/66A-1A, NEW COLONY KAKARMATTA, Ranipur, Nagar Nigam Food Safety Zone-15, Varanasi, Uttar Pradesh-221106",True,0
+Petal Of Love And Cake,"Bakery,Pizzas,Continental,Desserts",3.9,400,Bhelupur,Bhelupur,"B 21/62 Opposite Petrol Pump, Kamachha, Godaulia, Varanasi",True,0
+99 Kitchen,"North Indian,Biryani,Chinese,Pizzas,Desserts",4.0,200,Nadesar,Nadesar,"98/164,Gilat Bazzar,Shivpur,Varanasi ,Uttar Pradesh,221003",False,1
+KUNG FU CUISINE,Chinese,4.0,250,Lanka,Lanka,"0B 10/66 A 1A,KAKARMATTA, LOKO CHITUPURA NAGAR NIGAM FOOD SAFETY ZONE-15 VARANASI UTTAR PRADESH-221001",True,0
+Panjabi Rasoi,Indian,4.0,300,Bhelupur,Sigra,"B-37/182, Flat F-8, Krishna Appartment, Birdopur, Mahmoorganj, Varanasi",True,0
+Welcome Fast Food,"Street Food,Bakery",3.0,100,Lanka,Lanka,"n10/785,new colony kakarmatta Varanasi -221004",False,0
+Bhagya Shree Sweets and Family Restaurant,"Indian,South Indian,Chinese",3.8,300,Hamrautia,Bhojuveer,"S-6/108,A-1, GOLGHAR, KACHAHARI VARANAS",False,0
+Jamuna Das Biscuits,Bakery,4.1,350,Harha,Chetganj,"D 39/35,Kodai chowki,Chetganj,Varanasi",False,0
+Manya Family Restaurant,"South Indian,Indian,Chinese",3.5,200,Dig Colony,pandeypur,"Sudhakar Road Khajuri, near post office, Pandeypur, Varanasi",True,0
+Bawarchi Restaurant,"North Indian,Chinese",NA,500,Khajuri Colony,Nadesar,"S10/51-2, Maqbool Alam Road, Hakul Ganj Nadesar, Varanasi",False,0
+Sriram sweets,"Fast Food,Sweets,South Indian",4.1,300,Golghar kachehri,Nadesar,"S 6/108 Golghar Kachahari, Varanasi	 221002",False,0
+ROTI SHOTI,North Indian,3.9,250,Lanka,Lanka,"0B 10/66 A 1A,KAKARMATTA, LOKO CHITUPURA NAGAR NIGAM FOOD SAFETY ZONE-15 VARANASI UTTAR PRADESH-221001",False,0
+Momo's Station,"Street Food,Chinese",NA,100,Kakarmata,IIT,"N-11/99 F-5 A RANIPUR, MAHMOORGANJ, Nagar Nigam Food Safety Zone-15, Varanasi, Uttar Pradesh",True,0
+The Tiffin King,"Street Food,Indian,Chaat,Thai,Sweets",4.4,200,sigra varanasi,sigra varanasi,"OB.37/182-A-PBIRDOPUR, Virdopur,  Nagar Nigam Food Safety Zone-18,  Varanasi, Uttar Pradesh - 221010",True,0
+ANNAPURNA CLOUD KITCHEN,"North Indian,Indian",NA,200,Sigra,Sigra,"C-6/143 A, BAGH BARIYAR SINGH ,  CHETGANJ, Chetganj, Nagar Nigam Food  Safety Zone-13, Varanasi, Uttar Pradesh - 221001",True,0
+Yelchiko Cafe & Diner,"North Indian,Chinese,Desserts",NA,500,Varanasi Cantonment,Nadesar,"1, Patel Nagar, Mint House Road, Cantonment, Varanasi, Varanasi, Varanasi",False,0
+S V GRAND SPICY KITCHEN (UNIT OF S V GRAND),"Chinese,Indian,Mughlai",NA,400,Ram katora piplani katra road ,Sigra,"C25/1, C25/1M RAMKATORA CHETGANJ VARANASI, NAGAR NIGAM FOOD SAFETY ZONE-13 VARANASI UTTAR PRADESH-221001",False,0
+The Vegan Fam,"Beverages,Bakery",NA,400,Sigra,Sigra,"D 54/16, B 5-5, LuxmiKund,  Luxa, Varanasi, Uttar Pradesh 221010, India",True,0
+How's ThaT,"Chinese,Arabian,Snacks",4.2,200,Kakarmatta,IIT,"N-10/80-D-10-8, near Indrani Gas Agency, New Colony Kakarmatta, Sundarpur, Nagwa, Varanasi, Uttar Pradesh 221004, India",False,0
+P V Gold Bakers,"Bakery,Chinese,South Indian",3.4,400,Naibasti,Pandeypur,"Infront Of Police Chowki, Pandeypur, Varanasi",True,0
+SUSHIL CHAT BHANDAR,Chaat,NA,150,Nadesar,Nadesar,"NEAR CHAUKAGHAT PANI TANKI, CHOWKAGHAT,VARANASI, Choukaghat, Nagar Nigam Food Safety Zone-6, Varanasi, Uttar Pradesh - 221002",True,0
+Welcome Bakery,"Street Food,Indian,Bakery",NA,100,"New colony kakarmatta, sunderpur","New colony kakarmatta, sunderpur","N10/785 NEW COLONY KAKARMATTA , Loko Chhitupura, Nagar Nigam Food Safety Zone-15, Varanasi, Uttar Pradesh - 221004",False,0
+Momo's Queen,"Street Food,Chinese,Snacks",NA,150,Kakarmata,IIT,"N-11/99 F-5 A RANIPUR, MAHMOORGANJ, Nagar Nigam Food Safety Zone-15, Varanasi, Uttar Pradesh",True,0
+The Royal Recipe,"North Indian,Chinese,Mughlai,Biryani",3.4,300,Nadesar,Nadesar,"SHOP NO-283, S21/653, BARNA BRIDGE, VARANASI",False,0
+Quickie Cut,Indian,NA,100,Sigra,Sigra,"J13/93, Sanjay Ghandhi Nagar Colony, Jaitpura, Varanasi, Uttar Pradesh 221001, India",True,0
+Cafe Unplugged,"Chinese,Beverages",3.7,200,Sikraul,Nadesar,Varuna pul Kachahari Road Near Jalans Varanasi,False,0
+Biryani on wheels,"Biryani,Tandoor",NA,300,Nadesar,Nadesar,"S-19/74, Varnapull Cantt, Nadesar, Varanasi 221002",False,0
+Tasty Cafe,"Snacks,Fast Food,Beverages",NA,200,Nadesar,Nadesar,"Nadesar, Chaukaghat, Varanasi, Uttar Pradesh, India",False,0
+Tasty Thali,"Thai,Beverages,Desserts",NA,300,Nadesar,Nadesar,"S19/131 B-9 PWD road abhilasha colony Varuna bridge, Varanasi.",False,0
+Cafe65,"Fast Food,Snacks,Beverages",NA,300,Nadesar,Nadesar,"S 2/653-1, Varuna pul, Sigraul, Kachahari Road Near Jalans Varanasi-221002",False,0
+Desi Vdesi,"Indian,Chinese,Tandoor,Biryani",NA,200,Kabir Chaura,Sigra,"K 65/49 kabir chaura goladeenanath varanasi goladeenanath Nagar,VARANASI -221001",False,0
+Bikanervala,"North Indian,South Indian,Street Food",4.0,500,Bhelupur,Bhelupur,"Shop 101, IP Vijaya Mall, Bhelupur, Varanasi",False,0
+WarmOven Cakes & Desserts,"Desserts,Bakery,Ice Cream",3.9,200,Nadesar,Nadesar,"15, The Mall Road, Cantonment, same building of Hotel DE paris Varanasai, Chhawani Cantonment, Varanasi, Uttar Pradesh, 221002",False,0
+Saffron Veg Restaurant,"North Indian,South Indian,Chinese,Pizzas",3.8,350,Sidhgiribagh,Godowlia,"Near petrol pump,Girjaghar,Godowlia",False,0
+BAYLEAF RESAURANT,"Chinese,Snacks,Fast Food",NA,250,Sigra,Sigra,"B 38/217 A-6, Tulsipur, Nagar Nigam Food Safety Zone-18, Varanasi, Uttar Pradesh-221005",True,0
+Sundae Everyday Ice Creams,"Ice Cream,Desserts",4.3,100,Nadesar,Nadesar,"15, The Mall Road, Cantonment, same building of Hotel DE paris Varanasai, Chhawani Cantonment, Varanasi, Uttar Pradesh, 221002",False,0
+Kaati Zone Rolls & Wraps,"Beverages,Bengali,Biryani,Street Food,Snacks",4.3,200,Nadesar,Nadesar,"15, The Mall Road, Cantonment, same building of Hotel DE paris Varanasai, Chhawani Cantonment, Varanasi, Uttar Pradesh, 221002",False,0
+Hotel Hardik Palacio,"Indian,Seafood",NA,800,Sigra,Sigra,"D52, 2-A, Luxa Rd, Sidhgiribagh, Varanasi, Uttar Pradesh 221010, India",False,0
+Slurpy Shakes,Beverages,4.4,150,Nadesar,Nadesar,"15, The Mall Road, Cantonment, same building of Hotel DE paris Varanasai, Chhawani Cantonment, Varanasi, Uttar Pradesh, 221002",False,0
+The Belgian Waffle Co.,"Desserts,Beverages",4.4,200,Bhelupur Varanasi,Bhelupur Varanasi,"Vijaya Complex, Beside Kerla Cafe, Bhelupur Varanasi, 221001. Uttar Pradesh.lupur Varanasi Pin Co. 221010",True,0
+Sita Rasoi- Luxa,"North Indian,Chinese,South Indian",NA,400,Sigra,Sigra,"D 47/ 171, ramapura varanasi, nagar nigam food safety zone 13, varanasi UP, 221001",False,0
+Cupcake Bliss Cakes & Desserts,"Bakery,Desserts,Ice Cream",4.2,200,Nadesar,Nadesar,"15, The Mall Road, Cantonment, same building of Hotel DE paris  Varanasai, Chhawani Cantonment, Varanasi, Uttar Pradesh, 221002",False,0
+ANSHU CAFE,"South Indian,Chinese,Snacks,Sweets,Beverages",NA,200,Sigra,Sigra,"Mahmoorganj, Tulsipur, Nagar Nigam  Food Safety Zone-18, Varanasi, Uttar  Pradesh - 221010",False,0
+La Pino'z Pizza,"Pizzas,Italian,Pastas,Desserts",3.7,250,Nadesar,Nadesar,"S-6/13 MIYANA MAHAL, ORDERLY BAZAR, WARD SIKRAUL, POST ORDERLY BAZAR, PS CANTT, VARANASI, Nagar Nigam Food Safety Zone-1, Varanasi, Uttar Pradesh-221002",False,0
+Indiana Burgers,"American,Fast Food",4.2,200,Nadesar,Nadesar,"15, The Mall Road, Cantonment, same building of Hotel DE paris Varanasai, Chhawani Cantonment, Varanasi, Uttar Pradesh, 221002",False,0
+Prasadam Restaurant,"Indian,Italian,South Indian,Continental,Chinese",NA,300,Sigra,Bansphatak,"CK 37/44-A, BANSHPAHATK, VARANASI",False,0
+Deena Chat Bhandar,"Snacks,Chinese,Desserts",4.1,100,Sidhgiribagh,Godowlia,"D-47/184, Luxa Road, Godowlia, Varanasi, Godaulia, Varanasi",True,0
+Mishra Bhojnalaya,"Thalis,Indian,Beverages",3.8,300,Luxa Road,Sigra,"D47/3A-1, Ramapura Luxa Rd, Ramapura Luxa, Varanasi, Uttar Pradesh 221001, India",False,0
+AHK BIRYANI HOUSE,"Chinese,Indian",NA,250,Sigra,Sigra,"S/O radheshyam prajapati.n 12/306D-2  LAKHRAWN .BAZARDIHA mahmurganj  BAZARDIHA Varanasi, Bazardiha, Nagar  Nigam Food Safety Zone-18, Varanasi,  Uttar Pradesh - 221109",False,0
+The Dessert Zone,"Bakery,Desserts,Ice Cream",4.4,200,Nadesar,Nadesar,"15, The Mall Road, Cantonment, Same building of Hotel DE parisVaranasai, Chhawani Cantonment, Varanasi, Uttar Pradesh, 221002",False,0
+ANGEETHEE RESTAURANT,"North Indian,South Indian,Chinese,Snacks,Salads,Desserts,Beverages",4.0,250,Lanka,Lanka,"N 8/239 NEWADA SUNDERPUR, Nagar Nigam Food  Safety Zone-16, Varanasi, Uttar Pradesh-221010",False,0
+The Coffee House,"North Indian,South Indian",3.9,300,Bhelupur,Bhelupur,"B 20/45 Jain Mandir, Bhelupur, Varanasi",True,0
+Burger It Up,"American,Continental,Beverages,Desserts,Fast Food",4.6,200,Nadesar,Nadesar,"15, The Mall Road, Cantonment, same building of Hotel DE paris Varanasai, Chhawani Cantonment, Varanasi, Uttar Pradesh, 221002",False,0
+The Cake On The Wheels,"Desserts,Snacks",NA,200,Nadesar,Nadesar,"19/140 jadid bajar pwd office Nadesher varansi,221002",True,0
+Veda Hotel - Vyanjan Restaurant,"Italian,Chinese,Biryani,Desserts,Beverages",NA,498,"luxa,Ramapura ,Varanasi","luxa,Ramapura ,Varanasi","D 47/178, RAMAPURA, VARANASI, Nagar Nigam Food Safety Zone-13, Varanasi, Uttar Pradesh-221001",True,0
+Biryani Mahal,"Indian,Biryani,Mughlai,Tandoor,Snacks",3.6,200,kachahri,Sigra,"Police Line Crossing, Maqbool Alam Rd, near Dayam khan Masjid, Varanasi, Uttar Pradesh 221001",False,0
+Nawabi Zaiqua,"Mughlai,Lucknowi",4.0,350,Hamrautia,Kachahri,"S 6/105, Golghar Kachahri, bhojubeer, Varanasi",False,0
+Live Bakers,Bakery,3.8,200,Kailashpuri Colony,IIT,"N 7/1 D-3, Bajrang Nagar Colony, Bhikaripur, DLW, BHU Road, Varanasi",True,0
+MEET N EAT,"Chinese,Indian,Fast Food",NA,250,Sigra,Sigra,"D 47/150 LUXA ROAD RAMAPURA, Ramapura, Nagar Nigam Food Safety Zone-13, Varanasi, Uttar Pradesh - 221001",True,0
+365Foodies,"Fast Food,Snacks,Beverages",NA,300,Nadesar,Nadesar,"S 2/653-1, Varuna pul, Sigraul, Kachahari Road Near Jalans Varanasi",False,0
+AB MOUNTAIN MOMO,"Chinese,Snacks",NA,200,IIT,IIT,"Near Sushila Dry Cleaners, DLW Road, New Colony Kakarmatta, ,  Varanasi, UttarPradesh-221004",False,0
+Silver Spoon Restaurant,"North Indian,Chinese",NA,500,Ramapura Luxa,Godowlia,"D-46/19-1, Laxa, Godaulia, Varanasi",False,0
+Egg Roll Corner,"Street Food,Snacks,Chinese",NA,100,Kotwali,Sigra,"C23/54B1 PIP LANIKARA TAKABIR CHAURA VARANASI , Nai Basti, Nagar Nigam Food Safety Zone-2, Varanasi, Uttar Pradesh, 221001",False,0
+CAPCICUM & CORRIENDER,"North Indian,Chinese,Biryani,Snacks",3.4,300,IIT,IIT,"N 7/1 R9, Sunderpur, Varanasi_221005",False,0
+Qadri Halal food Restaurant,"Indian,Snacks",NA,300,Sigra,Sigra,"D44/46 A Ramapura Luxa, Luxa, Nagar  Nigam Food Safety Zone-14, Varanasi,  Uttar Pradesh - 221001",False,0
+FORK & SPOON,"North Indian,Chinese,Snacks",NA,300,IIT,IIT,"N 7/1 R9, Sunderpur, Varanasi_221005",False,0
+The Lunch Time,"North Indian,Mughlai",NA,400,IIT,IIT,"N 16/65 A, KOLHUA, VINAYAKA, CHHITUPUR, VARANASI",False,0
+Tandoor & Curry House,"Indian,Chinese",NA,400,IIT,IIT,"N 16/65 A, KOLHUA, VINAYAKA, CHHITUPUR, VARANASI",False,0
+Keshari Chat Corner,"Chaat,Street Food",3.7,200,Godowlia,Godowlia,"Keshari chat corner,  Dashaswmedh road ,Godolia, Varanasi. Please update my outlet location.",True,0
+MR. PIZZA WALA,Pizzas,NA,250,Lanka,Lanka,"N 12/435-1B Chhoti Patiya,  Bajardiha,Varanasi Uttar Pradesh ,  Bazardiha, Nagar Nigam Food Safety  Zone-18, Varanasi, Uttar Pradesh - 221109",False,0
+THE CAPSICUM,"Fast Food,Burgers,Pizzas,Snacks",NA,200,Lanka,Lanka,"N 12/435-1B Chhoti Patiya,  Bajardiha,Varanasi Uttar Pradesh ,  Bazardiha, Nagar Nigam, Varanasi, Uttar  Pradesh - , Bazardiha, Nagar Nigam Food  Safety Zone-18, Varanasi, Uttar Pradesh - 221109",True,0
+Kwality Walls Frozen Dessert and Ice Cream Shop,"Desserts,Ice Cream",NA,200,Lanka,Lanka,"Rhythem Palace: B 21/62, Kamachha, Varanasi, Uttar Pradesh-221010 (HUL- IA40454P159)",False,0
+Sri Narayan Misthan Bhandar (Thatheri Bazar),Sweets,3.8,300,Ghasi Tola,Sigra,"CK 18/13, Thatheri bazar, Kotwali, Varanasi, 221001",True,0
+PIZZA CORNER,Pizzas,NA,200,Sigra,Sigra,"K 56/131, Ausaanganj, Varanasi, Varanasi  Uttar pradesh, Dara Nagar, Nagar Nigam  Food Safety Zone-9, Varanasi, Uttar  Pradesh - 221001",False,0
+Swadeshi Biryani,Biryani,NA,400,IIT,IIT,"N 16/65 A, KOLHUA, VINAYAKA, CHHITUPUR, VARANASI 221010",False,0
+VEERASWAMY CAFE,"South Indian,North Indian,Chinese",NA,380,Sigra,Sigra,"Ck37/37A,nalanda building,opp. Shapuri mall,bansphatak road,Varanasi,221001",False,0
+Rasoi Restaurant,"Indian,Chinese,Continental",3.7,300,Sikraul,Nadesar,"S-2639-639-A-1, CLUB ROAD, SIKRAUL, District - Varanasi, STATE - Uttar Pradesh",False,0
+VCD Bakery,"Bakery,Desserts,Snacks",3.9,300,Varanasi,Sarainandan Khojwan,Elegance Apartment  Flat No. T3 2B House No. 25/33-25 Jawahar Nagar Gurudham Colony Varanasi  Pin 221005,True,0
+Banaras Metro,"North Indian,Chinese,Continental,Biryani",3.5,200,Vda Colony,Pandeypur,"N.9/475A-1, nai basti pandeypur",False,0
+WOW PIZZA CORNER,Pizzas,NA,200,Lanka,Lanka,"B 33/8-C. GANDHINAGAR NARIYA,  SUNDARPUR, Varanasi, Sunderpur,  Varanasi, Varanasi, Uttar Pradesh - ,  Sundarpur, Nagar Nigam Food Safety  Zone-16, Varanasi, Uttar Pradesh - 221005",True,0
+PIZZA HUB,"Pizzas,Fast Food",NA,250,Lanka,Lanka,"N 12/435-1B Chhoti Patiya,  Bajardiha,Varanasi Uttar Pradesh ,  Bazardiha, Nagar Nigam Food Safety  Zone-18, Varanasi, Uttar Pradesh - 221109",True,0
+THE CAKE BRAND,"Bakery,Fast Food,Snacks",NA,200,Nadesar,Nadesar,"S-19/141, Jadid Bazar, Cantt, Varanasi, Nadesar, Nagar Nigam Food Safety Zone-4, Varanasi, Uttar Pradesh-221002",True,0
+S K FOOD PLAZA,North Indian,NA,550,Nadesar,Nadesar,"8XWJ+FJ5, Kachahari - Orderly Bazar Link Rd, Hamrautia, Varanasi, Uttar Pradesh 221002, India",False,0
+PIZZA HUT,"Pizzas,Burgers,Fast Food,Snacks",NA,200,Lanka,Lanka,"N 12/435-1B Chhoti Patiya,  Bajardiha,Varanasi Uttar Pradesh ,  Bazardiha, Nagar Nigam, Varanasi, Uttar  Pradesh - , Bazardiha, Nagar Nigam Food  Safety Zone-18, Varanasi, Uttar Pradesh - 221109",False,0
+The Meal House,"North Indian,Chinese",NA,200,IIT,IIT,"N 16/65 A, KOLHUA, VINAYAKA, CHHITUPUR, VARANASI",False,0
+SHREE SATYA NARAYAN SWEETS,"Sweets,Snacks",NA,200,Sigra,Sigra,"Thatheri Bazar, Ghasi Tola, Varanasi, Uttar Pradesh 221001, India",True,0
+PIZZA ADDA,"Pizzas,American,Fast Food",NA,200,Lanka,Lanka,"N 12/435-1B Chhoti Patiya,  Bajardiha,Varanasi Uttar Pradesh ,  Bazardiha, Nagar Nigam, Varanasi, Uttar  Pradesh - , Bazardiha, Nagar Nigam Food  Safety Zone-18, Varanasi, Uttar Pradesh - 221109",False,0
+MR. WOW PIZZA,Pizzas,NA,200,Sigra,Sigra,"N 12/435-1B Chhoti Patiya,  Bajardiha,Varanasi Uttar Pradesh ,  Bazardiha, Nagar Nigam Food Safety  Zone-18, Varanasi, Uttar Pradesh - 221109",True,0
+Cakes Man,Bakery,4.2,350,Bhullanpur,Kanchanpur,"A N-444/2 Kanchanpur, Post DLW,  Varanasi",True,0
+Amrita cafe,"Chinese,Desserts",NA,100,IIT,IIT,"Shop no. 22-23,(Post Office Building) D.L.W Central Market Varanasi , Nagwa, Nagar Nigam Food Safety Zone-16, Varanasi, Uttar Pradesh, 221004",False,0
+Moti Mahal Varanasi,"North Indian,Chinese,Tandoor,Biryani,Mughlai,Punjabi,Thai,Thalis,Kebabs,Seafood",2.9,250,Bhelupur,Sigra,"N 16/65 A Sudamapur, Badi Gaibi Road, Bhelupur, Varanasi, Uttar Pradesh-221010",False,0
+SWADESHI PAKWAAN,"Indian,Chinese,Pizzas",NA,300,Bhelupur,IIT,"N 16/65 -12A, Kulhuwa Vinayaka Badi Gaibi Road,  Virdopur, Nagar Nigam Food Safety Zone-18, Varanasi,Uttar Pradesh-221010",True,0
+SHRI CHAPPANBHOG RESTAURANT,"North Indian,Pizzas,South Indian",2.7,200,Nadesar,Nadesar,"S 9/68-K-3-J NAI BASTI VARANASI,NAI BASTI NAGAR NIGAM FOOD SAFETY ZONE-2 , VARANASI UTTAR PRADESH 221002",True,0
+The London Shakes,"Pizzas,Beverages,Snacks,Desserts,American",4.0,300,Bhelupur,Bhelupur,"Gurudham Chauraha, Gurudham colony, Lane No.5, Near Bank of Baroda, landmark Varanasi Hospital",False,0
+MAHARAJA FAST FOOD,"Fast Food,Snacks,Chinese",NA,200,Sigra,Sigra,"Shop no.160 B Gurunanak Market, K 30/38  Ghasiyari Tola, Varanasi, Gharwali Tola,  Nagar Nigam Food Safety Zone-10,  Varanasi, Uttar Pradesh - 221001",False,0
+FOODIE JUNCTION,"Chinese,North Indian,Biryani,Thalis,Snacks",NA,400,Lanka,Lanka,"N7/1 R 9 SUNDARPUR,NAGAR NIGAM FOOD SAFETY ZONE-16, VARANASI UTTAR PRADESH-221005",False,0
+Spicy Bite Restaurant,"Indian,Chinese",4.0,300,Bhullanpur,IIT,"24-25,Central market DLW, Bhullanpur, Varanasi, Uttar Pradesh, India",False,0
+Casamila Restro & Banquet,"North Indian,Chinese,Desserts",4.0,600,Hamrautia,bhojubeer,"Opp DIG Colony, MA Road, Bhojubeer, Varanasi",False,0
+Kuber Mishtan Bhandar,Sweets,NA,300,Ghasi Tola,Sigra,"K 35/5, Thatheri Bazar, Chaukhamba, Varanasi , District - Varanasi, STATE - Uttar Pradesh",False,0
+ANY TIME CAKE POURLER,Bakery,NA,250,IIT,IIT,"S/O RAJESH KUMAR, 2 KA BHIKHARIPUR, POST  DLW, BHIKHARIPUR VARANASI TAHSIL, VARANASI UTTAR PRADESH-221004",False,0
+JAIVARDHAN ZAYKA,"South Indian,Chinese",NA,200,Sigra,Sigra,"K 32/45 Dandpani Ki Gali Varanasi, Uttar Pradesh 221001, India",True,0
+Pulpy Pastry,Bakery,4.0,400,IIT,IIT,(VCD Bakery) Elegance Apartment  Flat No. T3 2B House No. 25/33-25 Jawahar Nagar Gurudham Colony Varanasi  Pin 221005,False,0
+Zaika,"Indian,Mughlai",3.7,400,Bhelupur,Bhelupur,"8-A, Oppsite Aman E Khash , Bhelupur, Ravindrapuri road Varanasi,Lanka,Varanasi",False,0
+Diamond Hotel Bistro Benares,"North Indian,Continental,South Indian",3.5,700,Bhelupur,Near I P Vijay Mall,"Diamond Hotel, Near I P Vijay Mall, Durgakund road.",False,0
+Pizza kitchen,"Pizzas,Italian,Desserts",3.1,200,Pandeypur,Pandeypur,"NAI BASTI, PANDEYPUR, PANCHKOSI ROAD, VARANASI UTTAR PRADESH-221002",False,0
+Pizza Booth,"Pizzas,Snacks",NA,300,IIT,IIT,"N 2/98-3. Sunderpur, Nagawa, Varanasi, UP 221005",False,0
+DE THALI,"Indian,Thalis",NA,200,Lanka,Lanka,"N-16/65-12-R,VINAYAKA, VARANASI, VINAYAKA NAGAR NIGAM FOOD SAFETY ZONE-14 VARANASI UTTAR PRADESH-221010",False,0
+Dominator Pizza Boss,"Italian,Pizzas,Fast Food",NA,400,IIT,IIT,"N 8 251 A 14 M VARANASI, Naria, Nagar Nigam Food Safety Zone-16, Varanasi, Uttar Pradesh - 221005",False,0
+PIZZA BITE,"Pizzas,Fast Food,Snacks",NA,200,Lanka,Lanka,"N 12/435-1B Chhoti Patiya,  Bajardiha,Varanasi Uttar Pradesh ,  Bazardiha, Nagar Nigam, Varanasi, Uttar  Pradesh - , Bazardiha, Nagar Nigam Food  Safety Zone-18, Varanasi, Uttar Pradesh - 221109",False,0
+DOWNTOWN PIZZA,"Pizzas,Fast Food",NA,200,Lanka,Lanka,"N 12/435-1B Chhoti Patiya,  Bajardiha,Varanasi Uttar Pradesh ,  Bazardiha, Nagar Nigam, Varanasi, Uttar  Pradesh - , Bazardiha, Nagar Nigam Food  Safety Zone-18, Varanasi, Uttar Pradesh - 221109",True,0
+Champaran Meat House,"Indian,North Indian",3.7,200,Mahavir mandir orderlybazar,Nadesar,"Mahaveer Mandir Road, Gali Bazar Pandeypur, Varanasi- 221002",False,0
+Banaras Bites,"North Indian,South Indian,Chinese,Snacks",3.2,280,Nadesar,Nadesar,"Shiv Shakti Complex, Pandeypur Chauraha, Pandeypur, DIG Colony, Varanasi, Uttar Pradesh 221002, India",True,0
+Subway,"Healthy Food,Salads,Snacks,Desserts,Beverages",3.6,200,Bhelupur,Lanka,"B 27/95 and B 27/95-1, Jawahar Nagar beside of Murikatta Baba temple, Varanasi",False,0
+The Paratha's Kitchen,North Indian,3.2,400,IIT,IIT,"N 16/65 A, KOLHUA, VINAYAKA, CHHITUPUR, VARANASI",False,0
+PIZZA  65,Pizzas,NA,200,Sigra,Sigra,"K 56/131, Ausaanganj, Varanasi, Varanasi  Uttar pradesh, Dara Nagar, Nagar Nigam  Food Safety Zone-9, Varanasi, Uttar  Pradesh - 221001",False,0
+Prince Bakers,Bakery,3.0,300,Ghasi Tola,Chetganj,"K 40/78, Bhaironath, Near KalBhairov Mandir, Maldahiya, Chetganj, Varanasi",False,0
+VARANASI CAFE BAKERY & RESTAURANT,"Indian,Chinese,Italian",NA,200,Godowlia,Godowlia,"D -3/75, MEERGHAT DASHASHWAMEDH, DASHASHWAMEDH NAGAR NIGAM FOOD SAFETY ZONE -12 VARANASI UTTAR PRADESH-221001",True,0
+Laziz Pizza,Pizzas,NA,200,Sigra,Sigra,"K 56/131, Ausaanganj, Varanasi, Varanasi  Uttar pradesh, Dara Nagar, Nagar Nigam  Food Safety Zone-9, Varanasi, Uttar  Pradesh - 221001",False,0
+CHILLY HUNTERS RESTAURANT  HOTEL UDAY PALACE,"North Indian,Chinese,Beverages",NA,600,Newada,Sunderpur,"Dlw Road, Bhu Road, Sunderpur, Varanasi",False,0
+PIZZA CAFE,Pizzas,NA,200,Sigra,Sigra,"K 56/131, Ausaanganj, Varanasi, Varanasi  Uttar pradesh, Dara Nagar, Nagar Nigam  Food Safety Zone-9, Varanasi, Uttar  Pradesh - 221001",False,0
+Bakers stop,Bakery,NA,200,Sigra,Sigra,"CK 12/51, KACHORI GALI, CHOWK, Kalbharav, Nagar Nigam Food Safety Zone-10, Varanasi, Uttar Pradesh - 221001",True,0
+Euro delicious pizza house,Pizzas,NA,200,Lanka,Lanka,"N 14/3 A-4 BRIJENCLAVE SARAYNANDAN  CHHITUPUR VARANASI UTTAR PRADESH ,  Loko Chhitupura, Nagar Nigam Food  Safety Zone-15, Varanasi, Uttar Pradesh -  221010",False,0
+URBAN PIZZA HUB,"Pizzas,Fast Food",NA,250,Lanka,Lanka,"N 12/435-1B Chhoti Patiya,  Bajardiha,Varanasi Uttar Pradesh ,  Bazardiha, Nagar Nigam Food Safety  Zone-18, Varanasi, Uttar Pradesh - 221109",True,0
+MANTRI PIZZA,Pizzas,NA,250,Sigra,Sigra,"N 12/435-1B Chhoti Patiya,  Bajardiha,Varanasi Uttar Pradesh ,  Bazardiha, Nagar Nigam Food Safety  Zone-18, Varanasi, Uttar Pradesh - 221109",True,0
+PIZZA PARADISE,"Pizzas,Burgers,Fast Food",NA,200,Lanka,Lanka,"N 14/3 A-4 BRIJENCLAVE SARAYNANDAN  CHHITUPUR VARANASI UTTAR PRADESH ,  Loko Chhitupura, Nagar Nigam Food  Safety Zone-15, Varanasi, Uttar Pradesh -  221010",False,0
+Rolls & Chow,Chinese,NA,400,IIT,IIT,"N 16/65 A, KOLHUA, VINAYAKA, CHHITUPUR, VARANASI 221010",False,0
+Full Course,"Indian,Thalis",NA,400,IIT,IIT,"N 16/65 A, KOLHUA, VINAYAKA, CHHITUPUR, VARANASI",False,0
+THE GREAT ESCAKE,Bakery,NA,250,Lanka,Lanka,"B 20/44-A VIJAYA NAGARAM PALACE,  BHELUPUR,VARANASI, Bhelupur, Nagar  Nigam Food Safety Zone-17, Varanasi,  Uttar Pradesh - 221010",True,0
+Wow pizza,"Pizzas,Burgers,Continental",3.2,250,Pandeypur,Pandeypur,"NAI BASTI, PANDEYPUR, PANCHKOSI ROAD, VARANASI UTTAR PRADESH-221002",False,0
+Luv kush family restaurant,"North Indian,Chinese,Snacks",3.5,400,Sigra,Sigra,"82F8+7J8, Kotwali, Varanasi, Uttar Pradesh 221001, India",True,0
+Al baike,Snacks,NA,150,Nadesar,Nadesar,"Panchkoshi Rd, Near Pandeypur Crossing, Naibasti, Varanasi, Uttar Pradesh 221102, India",False,0
+Al-Baik World,"Snacks,Chinese,Continental",3.9,200,Naibasti,Orderly Bazaar,Pandeypur police chauki near by allahabaad bank  P.C 221002,False,0
+The Mughlai Biryani Mahal,"Biryani,North Indian,Snacks",NA,300,Lanka,Lanka,"B /11/66, Ahata Rohilla, Gauriganj , Bhelupur, Varanasi 221001",False,0
+PIZZA PALACE,"Pizzas,Burgers,Fast Food,Snacks",NA,200,Lanka,Lanka,"N14/115, SARAINANDAN, khojawan,  VARANASI, Chhitupur, Mahmoorganj,  Varanasi, Uttar Pradesh, , Bazardiha,  Nagar Nigam Food Safety Zone-18,  Varanasi, Uttar Pradesh - 221010",False,0
+S.R.V. FOOD CORNER,"Chinese,Snacks",NA,200,Sigra,Sigra,"K 49/70, BALUABEER NAGAR NIGAM FOOD SAFETY ZONE-5 VARANASI UTTAR PRADESH-221001",False,0
+Baker's Pride,"Bakery,Desserts,Pizzas,Snacks,Punjabi",3.2,100,Nagwa,Nevada Sundarpur,"Baker's Pride N8/251 E A ,Nevada Sundarpur ,Varanasi.",True,0
+CHAI GALLIYARA CAFE,"Indian,Chinese,Italian",4.1,200,Chotta Chuppepur,Nadesar,"S 2/634 A-2K, SIKRAUL CENTRAL JAIL ROAD VARANASI,Sigraul,Nagar Nigam Food Safety Zone-4,Varanasi,Uttar Pradesh-221002",False,0
+Italian pizza,"Pizzas,Continental,Burgers",2.8,300,Pandeypur,Nadesar,"NAI BASTI, PANDEYPUR, PANCHKOSI ROAD, VARANASI UTTAR PRADESH-221002",False,0
+Zibibbo,"Street Food,Indian,Thalis,Snacks",NA,400,Bangali Tola,Lanka,"D 34/56 Ganesh Mahal Bengali Tola, Dashashwamedh,BANGALI TOLA,  Varanasi-221001",False,0
+Black Forest Pizza Burger Bar,"Bakery,American,Desserts,Snacks",3.1,300,IIT,IIT,"N 8 251 A 14 M  VARANASI,  Naria, Nagar Nigam Food Safety Zone-16, Varanasi, Uttar Pradesh - 221005",False,0
+Cresent Villa,"Indian,Chinese,North Indian",4.6,500,Lanka,Bhelupur,"Plot 126, Lane 6, Ravindrapuri Colony, Bhelupur, Varanasi",False,0
+Environmental Foods,"Salads,Juices,Healthy Food,North Indian",4.0,150,"Jivan nagar collony, Bajardiha","Jivan nagar collony, Bajardiha","N 13/209, KCH, Jivan nagar collony, Bajardiha, Varanasi - 221005",True,0
+Baker's Villa,Bakery,NA,300,Nadesar,Nadesar,"araji no 1272, mauja khajuri,Infront Of Police Chowki, Pandeypur, Varanasi-221002",False,0
+RASOI RAJASTHAN KI MARWADI BHOJNALAYA,"Rajasthani,Indian,Snacks",NA,250,Sigra,Sigra,"K 38/2, BHUTAL IMLI GOLGHAR MAIDAGIN VARANASI GHARWALI TOLA NAGAR NIGAM FOOD SAFETY ZONE-10 VARANASI UTTAR PRADESH-22100",True,0
+NEW SHREE BAKERS,"Bakery,Desserts,Pizzas",NA,300,Nadesar,Nadesar,"S-2/1-2, TAGORE TOWN, VARANASI ,  Nadesar, Nagar Nigam Food Safety  Zone-4, Varanasi, Uttar Pradesh - 221002",False,0
+THE CAKE CORNER,Bakery,NA,250,Nadesar,Nadesar,"S 9/480, nai basti panchkoshi road pandeypur varanasi nagar nigam food safety zone-2, varanasi uttar pradesh-221002/GUPTA BAKERS",False,0
+Dehati Chulha,"North Indian,Chinese,Biryani",NA,350,Nadesar,Nadesar,"S 27/42 Nawa;pur Basahi Bhojubeer,Nagar Nigam Food Safety Zone-1, Varanasi(uttar Pradesh)-221002",False,0
+Ming Garden,Chinese,4.0,500,Bhelupur,Bhelupur,"34-B, Ravindra Puri, Bhelupur, Varanasi",False,0
+DAZZLING SHAKE BAR,"Beverages,Fast Food,Chinese",NA,200,Lanka,Lanka,"B8/24 Bada Gambhir Singh, Sonarpura ,  Bag Hadha, Nagar Nigam Food Safety  Zone-12, Varanasi, Uttar Pradesh - 221001",True,0
+King Lucknow Biryani Chicken Corner,"Biryani,Lucknowi,Snacks",NA,250,Bhelupur,Bhelupur,"IP Vijaya Crossing, Ravindrapuri Road, Ramnagar, Varanasi",False,0
+RED RHINO PIZZA AND SHAKE,"Fast Food,Beverages",NA,600,Nadesar,Nadesar,"S - 25/1, Nigam Food Safety Zone 4, Sarsauli, Bhojuveer, Varanasi, Uttar Pradesh 221001, India",True,0
+ANY CAKE TIME,Bakery,NA,300,IIT,IIT,"S/O RAJESH KUMAR, 2 KA BHIKHARIPUR, POST  DLW, BHIKHARIPUR VARANASI TAHSIL, VARANASI UTTAR PRADESH-221004",True,0
+Daily Dose,"Snacks,Chinese,Fast Food",NA,360,Nadesar,Nadesar,"S8/389 Khajuri Colony, Varanasi, Uttar Pradesh 221002, India",False,0
+Peppy Paneer Pizza Boss,"Indian,Biryani,Snacks,Chinese",NA,400,IIT,IIT,"N 8 251 A 14 M VARANASI, Naria, Nagar Nigam Food Safety Zone-16, Varanasi, Uttar Pradesh - 221005",False,0
+The Chocolate Heaven,"Italian,Desserts,Beverages,Snacks",4.1,500,Bhelupur,Bhelupur,"B-27/92, C-1-B, Plot 65 A, First Floor, Ravindrapuri Colony, Bhelupur, Varanasi",False,0
+Donut Boss,"Bakery,Fast Food",NA,250,IIT,IIT,"N8/251 E A ,Nevada Sundarpur ,Varanasi. 221005",False,0
+The Cakes Villa,Bakery,NA,300,Nadesar,Nadesar,"araji no 1272, mauja khajuri,Infront Of Police Chowki, Pandeypur, Varanasi",False,0
+Delicacies of China by Manya,"Chinese,Snacks",NA,350,Nadesar,Nadesar,"Sudhakar Road Khajuri, near post office, Pandeypur, Varanasi",False,0
+MILKSHAKE JUNCTION,Beverages,NA,200,Lanka,Lanka,"B8/24 Bada Gambhir Singh, Sonarpura ,  Bag Hadha, Nagar Nigam Food Safety  Zone-12, Varanasi, Uttar Pradesh - 221001",True,0
+SHIV ANNAPURNA RESTAURANT AND BAKERS,"North Indian,South Indian,Chinese,Pizzas",NA,250,Nadesar,Nadesar,S 9/84 PANDEYPUR VARANASI NAGAR NIGAM FOOD SAFETY ZONE -2 VARANASI UTTAR PRADESH -221002,True,0
+Swad Restaurant,"South Indian,North Indian,Beverages",2.9,200,Bhojuveer,Nadesar,"Ground Floor, J.S. Complex, Opposite To Dr. SB Singh, Near Sadar Tehsil Bhojubeer, Nadesar, Varanasi",False,0
+Kashi Restaurant,"Chinese,North Indian,South Indian",NA,200,Bangali Tola,Lanka,"B 6/10 SONARPURA, BANGALITOLA NEAR SHAHARA OFFICE, VARANASI",True,0
+Aahaar Fast Food Court & Restaurant,"South Indian,Chinese",NA,300,Lanka,Lanka,"B 23/41Padampuri Colony, Gandhi Chowk,Khojawan, Varanasi, Uttar Pradesh 221010, India",False,0
+Paramshree family restaurant,"Chinese,Pastas",NA,300,Nadesar,Nadesar,"Pandeypur, Varanasi, Uttar Pradesh, India",True,0
+Hazelnut,"Bakery,Desserts,Fast Food",NA,250,IIT,IIT,"N8/251 E A ,Nevada Sundarpur ,Varanasi.221005",False,0
+BANARAS CAFE AND RESTAURANT,"Snacks,Waffle",NA,300,Naibasti,pandeypur,pandeypur police chauki near by allahabaad bank,False,0
+Maharaj Fast Food,"North Indian,Indian,Chinese,Beverages,Biryani",3.6,350,Chotta Chuppepur,Mahmoorganj,"Gilat Bajar, Badi Maszid, shivpur road, Varanasi",False,0
+Chulha Chowka,"North Indian,South Indian",NA,200,Bisweshwarganj,Near Kal bhairo temple,"K  42/36  Bhaironath,  Varanasi,- 221001",False,0
+Burger bomb,Burgers,NA,200,Lanka,Lanka,"N14/115, SARAINANDAN, khojawan,  VARANASI, Chhitupur, Mahmoorganj,  Varanasi, Uttar Pradesh, , Bazardiha,  Nagar Nigam Food Safety Zone-18,  Varanasi, Uttar Pradesh - 221010",False,0
+TASTY DOTS,"Chinese,Snacks,Fast Food,Beverages",NA,250,Lanka,Lanka,"B8/24 Bada Gambhir Singh, Sonarpura ,  Bag Hadha, Nagar Nigam Food Safety  Zone-12, Varanasi, Uttar Pradesh - 221001",True,0
+Chopped Chilli,"Chinese,North Indian,Burgers",NA,250,Nadesar,Nadesar,S10/244 hukulganj daitraveer mandir varanasi,True,0
+BANARAS BURGER CAFE,"Burgers,Fast Food,Pizzas,Snacks",NA,200,Lanka,Lanka,"N14/115, SARAINANDAN, khojawan,  VARANASI, Chhitupur, Mahmoorganj,  Varanasi, Uttar Pradesh, , Bazardiha,  Nagar Nigam Food Safety Zone-18,  Varanasi, Uttar Pradesh - 221010",False,0
+CHINESE MYSTIC,"Chinese,Snacks,Beverages",NA,300,Lanka,Lanka,"B8/24 Bada Gambhir Singh, Sonarpura ,  Bag Hadha, Nagar Nigam Food Safety  Zone-12, Varanasi, Uttar Pradesh - 221001",True,0
+PIZZA CAFE CORNER,"Pizzas,Burgers,Fast Food,Snacks",NA,200,Lanka,Lanka,"N14/115, SARAINANDAN, khojawan,  VARANASI, Chhitupur, Mahmoorganj,  Varanasi, Uttar Pradesh, , Bazardiha,  Nagar Nigam Food Safety Zone-18,  Varanasi, Uttar Pradesh - 221010",False,0
+Keventers - Milkshakes and Desserts,"Beverages,Ice Cream,Desserts,Healthy Food",4.4,300,Bhelupur,Bhelupur,"Laddha House, B 65, Lane 13, Ravindrapuri, Bhelupur Varanasi",True,0
+Cake Corner,Bakery,NA,300,Nadesar,Nadesar,"araji no 1272, mauja khajuri,Infront Of Police Chowki, Pandeypur, Varanasi",False,0
+Chinese Hub,Chinese,NA,300,IIT,IIT,"N - 13/209 H - 1, SUNDERPUR VARANASI,  Nagar Nigam Food Safety Zone-16, Varanas 221005",False,0
+Maharaja Foods - Lanka,"Snacks,Chinese,North Indian,Biryani",3.9,200,Lanka,Lanka,"Pandit Madan Mohan Malviya Road, Lal Bihari Market, BHU, Near Heritage Hospital, Lanka, Varanasi",False,1
+Captain Nova,"Indian,Mexican,Pizzas,Biryani",3.4,500,Bhelupur,Lanka,"Captain Nova, Anandbagh, Bhelupur, Varanasi, Uttar Pradesh, India",False,0
+CAKE PALACE,Bakery,NA,200,Nadesar,Nadesar,"18B bhubneswar nagar colony , Mahabeer road, Varanasi, Uttar Pradesh 221002, India",True,0
+Kemcho foodies,"North Indian,Continental,Chinese,Biryani",NA,250,Nadesar,Nadesar,"S9 475 A1 nai basti pandeypur , Nai Basti, Nagar Nigam Food Safety Zone-2, Varanasi221002",False,0
+Bangali Bhojan,"North Indian,Indian,Thalis",NA,150,Nadesar,Nadesar,"146, Bhubaneswar Nagar Colony, Vindhya Vasini Nagar Colony, Orderly Bazar, Varanasi, Uttar Pradesh 221002, India",False,0
+Manya Chinese Kitchen,"Chinese,Snacks",NA,350,Nadesar,Nadesar,"Sudhakar Road Khajuri, near post office, Pandeypur, Varanasi",False,0
+DELIGHT MOMO,Chinese,NA,200,Nadesar,Nadesar,"Nai Basti Panchkoshi Road, Pandeypur,  Varanasi, Pandeypur, Nagar Nigam Food  Safety Zone-2, Varanasi, Uttar Pradesh -  221002",False,0
+Royal livin,"North Indian,Chinese,Snacks,Fast Food",NA,300,IIT,IIT,Plot no 32 b gurudham colony bhelupur varanasi-221005,False,0
+Kulfi Bites,"Desserts,Sweets",NA,200,IIT,IIT,"N8/180-100, Nandan Nagar, Newada, Varanasi, Uttar Pradesh 221010, India",True,0
+CAKE MAP,Bakery,NA,200,Nadesar,Nadesar,"18 B bhubneswar nagar, tagore town orderly bazar",True,0
+RomasBakery,Bakery,NA,300,Nadesar,Nadesar,"araji no 1272, mauja khajuri,Infront Of Police Chowki, Pandeypur, Varanasi",False,0
+Yummy Treat Bakery,Bakery,NA,300,Nadesar,Nadesar,"Add. araji no 1272, mauja khajuri,Infront Of Police Chowki, Pandeypur, Varanasi",False,0
+Sweet Tooth Bakery,Bakery,NA,300,Nadesar,Nadesar,"araji no 1272, mauja khajuri,Infront Of Police Chowki, Pandeypur, Varanasi-221002",False,0
+MUM'S KITCHEN,Chinese,NA,200,Lanka,Lanka,"B 24/62 KASHMIRI GANJ KHOJWA CHHITUPUR, MAHMOORGANJ VARANASI ,BHELUPUR NAGAR NIGAM FOOD SAFETY ZONE-17 VARANASI UTTAR PRADESH-221010",False,0
+Sweetheart Bakers,Bakery,NA,250,Nadesar,Nadesar,"S9/479-D nai basti pandeypur, varansai  221002",False,0
+Food Pavalion,"North Indian,Fast Food,Indian",NA,400,Lanka,Lanka,B 9/47  Pilkhana  Shivala  Varanasi,False,0
+RASDHAM  MISTHAN AND RESTAURANT,"Sweets,Chinese,South Indian,Snacks",NA,200,Lanka,Lanka,"N -1/66-E Nagwa Samneghat Varanasi,  Nagwa, Nagar Nigam Food Safety  Zone-16, Varanasi, Uttar Pradesh - 221005/ Rasdham Misthan and  Bakers",False,0
+99 Chickens,"Pizzas,Desserts,Beverages,Snacks,American",4.0,250,Bhelupur,Lanka,"House No.B 27/78-B-1-(65), Satya Complex, Gurudham Chauraha, Varanasi, District - Varanasi, STATE - Uttar Pradesh",False,0
+GOLDEN CHARIOT,"Indian,Chinese,Biryani",NA,200,Nadesar,Nadesar,"S.2/326, E-3A, Kautilya Kon Rd, Near Trimurti Hospital, Gilat Bazar, Bhojuveer, Varanasi, Uttar Pradesh 221003, India",False,0
+7th Heaven,"Bakery,Desserts,Pizzas",4.3,300,Lanka,Lanka,"B 27/92-66, Chetmani Chauraha, near Ujala Cygnus Hospital, Jawahar Nagar Colony, Bhelupur, Varanasi, Uttar Pradesh 221005, India",True,0
+Goli vada pav no 1,Snacks,4.2,300,Bhelupur,Lanka,SHOP NO.14 B 27/96-K-1-F-14 GROUND FLOOR GURUDHAM AVASIYA YOJANA DURGAKUND VARANASI,False,0
+WOW PIZZA AND BURGER,"Pizzas,Fast Food,Combo",NA,250,Nadesar,Nadesar,"NAI BASTI, PANCHKOSHI ROAD, NEAR  MARUKA MANDIR PANDEYPUR,VARANASI  UTTAR PRADESH -221002 , Nai Basti,  Nagar Nigam Food Safety Zone-2,  Varanasi, Uttar Pradesh - 221002",False,0
+Be 33 Momos,"Street Food,North Indian,Indian",3.3,100,Nagwa,IIT,"B 33 /54 Batuapura Sundarpur Varanasi ,  Varanasi, Uttar Pradesh-",False,0
+Chaurasia Idli Dosa Corner,"Street Food,Indian",3.6,50,Karaundi,IIT,"Opp. Rudra Tower apartment, Near Sunderpur Crossing, Sunderpur,  Varanasi, Uttar Pradesh-",True,0
+Biryani Hotshot,"Biryani,Beverages",4.0,300,Bhelupur,Bhelupur,B3/354 lane no.8 RAVINDRAPURI colony varanasi 221005,False,0
+99 Pancakes,"Bakery,Waffle,Beverages",4.2,300,Lanka,Lanka,"Sandeep shah, B-27/92- 62A Ravindrapuri colony Varanasi - 221005",False,0
+Delhi Food Court,"Chinese,Indian,Biryani",2.5,300,Nagwa,IIT,"in Food Fictory Restaurant,N2/ 208 A1 Sunderpur , Pani ki Tanki K samne, Varanasi",False,0
+Banarasizaika,"Chinese,Fast Food,Snacks",NA,2,Nadesar,Nadesar,"9X3V+C9R, Pandeypur, Varanasi, Uttar Pradesh 221002, India",True,0
+The food garage,"North Indian,Continental,Chinese,Biryani,Pizzas",NA,250,Nadesar,Nadesar,"S9 475 A1 nai basti pandeypur , Nai Basti, Nagar Nigam Food Safety Zone-2, Varanasi 221002",False,0
+The Kerala House And Cafe,South Indian,3.1,200,Naria,Bhelupur,Kabirnagar near J R S Coaching kevaldham  Varanasi,True,1
+Mr Waffle therapist,"Pizzas,Beverages,Snacks,Desserts,American",3.9,200,Bhelupur,Lanka,"House	no	B	27/78-B-1,	Satya	complex	Gurudham	Chauraha,	Varanasi-221005",False,0
+99 not out,"Indian,North Indian,Chinese,Tandoor,Biryani",NA,199,Lanka,Lanka,"B26/24-2, Nawabganj, Durgakund, Jawahar Nagar Colony, Bhelupur, Varanasi, Uttar Pradesh 221001, India",False,0
+The Rose Kitchen,"Indian,South Indian,Chinese,Combo",NA,200,Vda Colony,Ashapur,"S 9/475 A 1 Naibasti, Pandeypur, Varanasi",False,0
+SHUBH ANNAPURNA,Indian,NA,250,Nadesar,Nadesar,"S9/84 PANDEYPUR VARANASI, Mavaiya, Nagar Nigam Food Safety Zone-2, Varanasi, Uttar Pradesh-221002",False,0
+Dosa Street,"Chinese,South Indian",3.7,200,Premchandra Nagar Phase - 2,Ashapur,"Dosa Street, Daulatpur Road, near Kali Mandir, Pandeypur, Varanasi, Uttar Pradesh, India",False,0
+Ishqa's Cake,Bakery,NA,700,IIT,IIT,(VCD Bakery) Elegance Apartment  Flat No. T3 2B House No. 25/33-25 Jawahar Nagar Gurudham Colony Varanasi  Pin 221005,False,0
+Deepak sweet house (somaru),"Sweets,Indian",NA,300,IIT,IIT,B34/141-h-9-1 Sarai Surjan Varanasi - 221010,True,0
+Banarasi Tadka,"North Indian,Indian,Mughlai,South Indian",3.7,300,Lanka,Lanka,"Next to marwadi sewa sadan, Near SBI Bank, Bhaidani Varanasi",False,0
+The Moody Chef,"Chinese,Beverages",NA,300,Lanka,Lanka,"B27/92-25A, Gurudham, Durgakund, Jawahar Nagar Colony, Bhelupur, Varanasi, Uttar Pradesh 221001, India",True,0
+Thali king,"Biryani,Snacks",NA,200,Lanka,Lanka,"B2/ 254-k-1, plot no 86, Ravundrapuri , varanasi 221005",False,0
+Hunger Valley,"Fast Food,Continental,Italian-American,Chinese",3.4,150,Varanasi,Lanka,B 47/1 Kabir nagar durgakund Varanasi-221005,False,0
+Shivam Dosa Corner,Indian,NA,200,Kotwali,IIT,"A 24/83Koyla  Bazar,  Varanasi,    -  221001",True,0
+Pizaa in town,"Pizzas,Italian",4.0,199,IIT,IIT,"B-33/54, Sundarpur, Nagwa, Varanasi, Uttar Pradesh 221005, India",False,1
+B33 STREET CAFE,"Pizzas,Chinese,Beverages",3.5,199,Kailashpuri Colony,IIT,"Sunderpur Chauraha, Sundarpur, Nagwa, Varanasi, Uttar Pradesh",False,0
+Interval,"North Indian,Continental,Chinese",3.9,300,Bhelupur,Bhelupur,B 27/62 A-15 Ravindrapuri  Durgakund road varanasi,True,0
+Chrystal Bowl Restaurant,"Italian,North Indian",4.0,500,Bhelupur,Bhelupur,"34-B, Ravindra Puri, Bhelupur, Varanasi",False,0
+ARYAN BAKERY & CHAT CORNER,"Bakery,Chaat",NA,200,PANDEYPUR,PANDEYPUR,"SA 2/391-A , PANDEYPUR, VARANASI PANDEYPUR NAGAR NIGAM FOOD SAFETY ZONE-02 VARANASI UTTAR PRADESH-221002",False,0
+MOMO -THE DUMPLINGS OF HAPPINESS,Chinese,3.9,200,Lanka,Lanka,"B27/62A, RAVINDRAPURI, BHELUPUR,  Bhelupur, Nagar Nigam Food Safety  Zone-17, Varanasi, Uttar Pradesh - 221005",False,0
+Spice Root,"North Indian,Chinese,Biryani",3.8,300,Dumraon Colony,Lanka,"B1/128, plot no 44, assi lanka road, dumraon colony varanasi uttar pradesh",False,1
+Sugar bake,"Desserts,Pizzas,Snacks,Bakery,Continental",NA,200,IIT,IIT,"B 27/88-J-1-B-A-1 Plot NO.77-B RAVINDRAPURI,  VARANASI, Nagar Nigam Food Safety Zone-17,  Varanasi, Uttar Pradesh-221010",False,0
+3 Idiots,"Indian,North Indian,Biryani,Mughlai,Beverages",2.4,300,Bhelupur,Durgakund,"B 47/1, Kabir Nagar, Near Kids Hospital, Durgakund, Varanasi",False,0
+80 Restro,"Beverages,Chinese,Snacks",NA,450,Nadesar,Nadesar,"S-2/232-A-1, Kautilya Kon Rd, Bhojuveer, Varanasi, Uttar Pradesh 221002, India",False,0
+Dosa King,"South Indian,Fast Food,Snacks",NA,200,Lanka,Lanka,"241/1, KARAUNDI, VARANASI , Varanasi",False,1
+Western Street Cafe & Restaurant,"North Indian,Chinese,Continental,Snacks",4.0,400,Bhelupur,Bhelupur,"B.27/35-8, Ravindrapuri Extention, Bhelupur, Varanasi",False,1
+Rolls Delight,Snacks,NA,200,Nadesar,Nadesar,"Gilat Bajar, Badi Maszid, shivpur road, Varanasi",False,0
+BANARASI BAATI CHOKHA,"Indian,Chinese,Beverages",3.7,200,Bhelupur,Lanka,"PLOT NO.33B,LANE NO.16,RAVINDRAPURI,BHELUPUR,VARANASI,UTTAR PRADESH -221010",True,0
+SHAKERNAWT,Beverages,NA,250,Lanka,Lanka,"B27/62A, RAVINDRAPURI, BHELUPUR,  Bhelupur, Nagar Nigam Food Safety  Zone-17, Varanasi, Uttar Pradesh - 221005",False,0
+B33 sundarpur,"Italian,Chinese,Beverages",NA,200,IIT,IIT,"B 33/54 A , BATUAPURA, SUNDARPUR, VARANASI , Bazardiha, Nagar Nigam Food Safety Zone-18, Varanasi, Uttar Pradesh, 221005",False,0
+Cafe 65,"North Indian,Chinese",2.7,200,Naria,Bhelupur,"Kabir Nagar, Durgakund,Lanka, Varanasi",False,0
+Waah Guru,North Indian,NA,400,Lanka,Lanka,B3/354 lane no.8 RAVINDRAPURI colony varanasi 221005,False,0
+Eater's Land,Snacks,NA,400,Lanka,Lanka,B3/354 lane no.8 RAVINDRAPURI colony varanasi 221005,False,0
+Dum Laga Ke,Biryani,NA,400,Lanka,Lanka,B3/354 lane no.8 RAVINDRAPURI colony varanasi 221005,False,0
+LONDON DA DHABA,"North Indian,Biryani",NA,300,Lanka,Lanka,"KESHARWANI FOOD PARADISE /B-25/33-187, Jawahar Nagar, Extension, Varanasi , Nagar Nigam Food Safety Zone-17, Varanasi 221005",False,0
+Sakshi Delicacies,Bakery,NA,400,Lanka,Lanka,"7XRQ+3JR, Sarai Nandan, Bhelupur, Varanasi, Uttar Pradesh 221010, India",True,0
+ORANGE BOX,Beverages,NA,300,Lanka,Lanka,"B-25 3 187, Jawahar Nagar, Extension,  Varanasi , Nagar Nigam Food Safety  Zone-17, Varanasi",False,0
+Bengla sweet house,"Snacks,Combo",3.3,300,IIT,IIT,"B34/141-H-9-1, sarai surjan nagar nigam food safety zone-16 Varanasi 221010",False,0
+Thanco's Natural Ice creams,Indian,NA,120,Lanka,Lanka,VARANASI FOOD COURT PADMSHREE CHAURAHA,False,0
+Black Pepper Fast Food Point,"Fast Food,Indian,Chinese",4.1,300,Lanka,Lanka,opposite JRS couching kabir nagar durgakund varanasi,False,1
+Indian	Pizza,"Pizzas,Italian",2.5,200,Bhullanpur,IIT,"Village	Kanchanpur,	DLW ,	Varanasi, Netambit	-	221004",False,0
+Capsicum,"North Indian,Pizzas,Chinese,South Indian,Bakery",4.0,250,Lanka,Lanka,"Pandit Madan Mohan Malviya Road, Saket Nagar Colony, Lanka, Varanasi",True,1
+The Food Darbar,"North Indian,Fast Food,Mughlai,Biryani",NA,300,IIT,IIT,"Add. N 14/2-A, Sunderpur, Sabji Mandi, Varanasi , Sundarpur, Nagar Nigam Food Safety Zone-16, Varanasi, Uttar Pradesh",False,0
+Student Adda Cafe & Restaurant,"Chinese,Indian,Snacks",NA,300,Lanka,Lanka,"39/2, HIG Kabir Nagar, Durgakund, Varanasi 221005",False,0
+PizzaArch,"Italian,Pizzas,Pastas",NA,300,Lanka,Lanka,"47/1, KABIR NAGAR, DURGA KUND, VARANSAI, Nagwa, Nagar Nigam Food Safety Zone-16, Varanasi, Uttar Pradesh - 221005",False,0
+4Brothers Bakery,"Bakery,Desserts",NA,300,Nagwa,Sunderpur,B34/147-K-1B Sarai Nandan Dashmi Varanasi near Shani Dev Mandir,False,0
+The Pocket Friendly Restaurant,"North Indian,Chinese",NA,300,Lanka,Lanka,"Add.  39/2, HIG Kabir Nagar, Durgakund, Varanasi 221005",False,0
+Prisoner's cafe and restro,"North Indian,Indian,Fast Food,Chinese,Snacks,Beverages",NA,250,Nadesar,Nadesar,"4/68, nai basti, varanasi , Nagar Nigam Food Safety Zone-2,  Varanasi, Uttar Pradesh - 221002",True,1
+Jbb Fast Food Corner,"North Indian,Chinese,Mughlai,Biryani",2.5,300,Bhelupur,Bhelupur,"kabir nagar,near kids care hospital,durgakund",False,0
+RICE AND NOODLES,Chinese,NA,250,Lanka,Lanka,"B-33/9-p gandhi nagar nariya, naria nagar  nigam food safety zone 16, varanasi up ,  Sundarpur, Nagar Nigam Food Safety  Zone-16, Varanasi, Uttar Pradesh - 221005",False,0
+PANEER MAHAL,North Indian,NA,250,Lanka,Lanka,"B-33/9-p gandhi nagar nariya, naria nagar  nigam food safety zone 16, varanasi up ,  Sundarpur, Nagar Nigam Food Safety  Zone-16, Varanasi, Uttar Pradesh - 221005",True,0
+Waffle weds cockis,Bakery,NA,200,Lanka,Lanka,"B2 /254 k-1, plot no. 86, ravindrapuri  Varanasi , Bhelupur, Nagar Nigam Food  Safety Zone-17, Varanasi, Uttar Pradesh -  221005",True,0
+MATKA MOTTON BIHARI DHABA,Indian,NA,250,Lanka,Lanka,"B2 /254 k-1, plot no. 86, ravindrapuri  Varanasi , Bhelupur, Nagar Nigam Food  Safety Zone-17, Varanasi, Uttar Pradesh -  221005",False,0
+HOT TANDOORI CHAI CAFE,Indian,NA,300,Sigra,Sigra,"38/55 69 b sheel nager tulsipur ranipur,  Tulsipur, Nagar Nigam Food Safety  Zone-18, Varanasi, Uttar Pradesh - 221010",True,0
+Central Conversations,"Snacks,Beverages,Pizzas,Italian,Continental",3.7,250,Shivala,Bhelupur,"B1/229 'A', Assi, Lanka, Varanasi",False,1
+Combo Company,"Combo,Indian,Chinese,Fast Food",NA,400,Lanka,Lanka,B 27/62 A-15 Ravindrapuri Durgakund road varanasi 221005,False,0
+OREGANO'S,"Fast Food,Italian,Snacks",4.1,350,Lanka,Lanka,"B27/62A, RAVINDRAPURI, BHELUPUR,  Bhelupur, Nagar Nigam Food Safety  Zone-17, Varanasi, Uttar Pradesh - 221005",False,0
+Taste of south,South Indian,NA,200,Nadesar,Nadesar,"Gilat Bajar, Badi Maszid, shivpur road, Varanasi 221002",False,0
+Misri sweets,"Pizzas,Sweets,Snacks",NA,280,IIT,IIT,"B 27/88-J-1-B-A-1 Plot NO.77-B RAVINDRAPURI,  VARANASI, Nagar Nigam Food Safety Zone-17,  Varanasi, Uttar Pradesh-221010",False,0
+UNIQUE MAHADEV CAFE,"Chinese,Beverages,Burgers,Snacks",NA,200,Lanka,Lanka,"B 26/24-32 DEENDAYAL NAGAR COLONY, NAWAB GANJ NAGAR NIGAM FOOD SAFETY ZONE-17 VARANASI UTTAR PRADESH-221010",False,0
+NightX  cafe,"Chinese,Fast Food,Beverages,North Indian,Biryani",NA,200,Lanka,Lanka,"0B30/95, NAGWA VARANASI-UP,  VARANASI, UP, IND, Nagar Nigam Food Safety Zone-16, Varanasi, ,Uttar Pradesh, 221005",False,0
+Shri Vishwanath Cafe,"North Indian,Indian,Thalis",NA,200,Lanka,Lanka,"B 26/24 - 32 DINDAYAL NAGAR COLONY ,  Nagar Nigam Food Safety Zone-17,  Varanasi, Uttar Pradesh - 221005",False,0
+HARSHIKA BAKERS,Bakery,NA,1400,Nadesar,Nadesar,"Unnamed Road, Hukulganj, 221007, Bharat Nagar Colony, Ashok Nagar, Varanasi, Uttar Pradesh 221001, India",False,0
+THE BIRYANI KING KALIKA,"Biryani,North Indian,Chinese",NA,250,Lanka,Lanka,"2/274, SUNDARPUR TADIYA , VARANASI,  UP 221005, Sundarpur, Nagar Nigam  Food Safety Zone-16, Varanasi, Uttar  Pradesh - 221005",False,0
+Eva Restaurant,"North Indian,Chinese,Continental",NA,300,Nadesar,Nadesar,Hotel vikram Palace 66 central jail road shivpur varanasi,False,0
+Amayra Food Zone,"Italian,Chinese,Snacks",NA,300,IIT,IIT,"Kandawav, Chitaipur chunar road near hdfc bank, Varanasi-221011",False,1
+Bhaukaal juice point,Juices,NA,150,durgakund,Lanka,"Shiv parvati mandir ke bagal me, durgakund ,bhelupur, nagarnigam food sefty zone 17, Varanasi, Uttar Pradesh 221010, India",True,1
+Dumdaar Chicken Wala,"North Indian,Chinese,Indian",NA,300,Lanka,Lanka,"39/2, HIG Kabir Nagar, Durgakund, Varanasi  221005",False,0
+GOLDEN DRAGON,"Chinese,Mughlai,Indian",NA,300,Lanka,Lanka,"B27/62A, RAVINDRAPURI, BHELUPUR,  Bhelupur, Nagar Nigam Food Safety  Zone-17, Varanasi, Uttar Pradesh - 221005",False,0
+PIZZA PLACE,Pizzas,NA,200,Nadesar,Nadesar,"S 1/4, VISHWANATH ASHRAM, RAJ  RAJESHWARI, GILAT BAZAR, SHIVPUR,  VARANASI , Shivpur, Nagar Nigam Food  Safety Zone-1, Varanasi, Uttar Pradesh -  221003",True,1
+A BAKER'S CABANE,"Bakery,Beverages,Fast Food",NA,500,Lanka,Lanka,"39/2 H.I.G., Kabir Nagar Colony, Bhelupur,  Durgakund, Sarai Surjan, Nagar Nigam  Food Safety Zone-16, Varanasi, Uttar  Pradesh - 221005",True,0
+Paneer Darbar,"North Indian,Chinese,Snacks",NA,300,Lanka,Lanka,"39/2, HIG Kabir Nagar, Durgakund, Varanasi",False,0
+LA CASA  THE LUSH CAFE,"Chinese,Pizzas",NA,300,Lanka,Lanka,"Plot No 32 B lane-16 Ravindrapuri colony, Varanasi bhelupur nagar nigam food safety zone-17, Varanasi Uttar Pradesh 221005",False,0
+AROMA BAKEHOUSE,Bakery,NA,200,Nadesar,Nadesar,"SA 4/4-3A DAULATPUR, PANDEYPUR,  Pandeypur, Nagar Nigam Food Safety  Zone-2, Varanasi, Uttar Pradesh - 221007",True,0
+Desi Chinese,Chinese,NA,300,Lanka,Lanka,"39/2, HIG Kabir Nagar, Durgakund, Varanasi",False,0
+Yo-China,"North Indian,Chinese,Italian-American,Beverages,Fast Food",NA,300,Lanka,Lanka,""" B 27/62 A-15 Ravindrapuri Durgakund road varanasi 221005",False,0
+Royal Tastes,"Chinese,Fast Food,Snacks",NA,300,Lanka,Lanka,B 27/62 A-15 RavindrapuriDurgakund road varanasi 221005,False,0
+CHAMPARAN RESTAURANT,"North Indian,Chinese,Fast Food,Snacks,Biryani",2.3,400,Lanka,Lanka,"B-33/9-p gandhi nagar nariya, naria nagar  nigam food safety zone 16, varanasi up ,  Sundarpur, Nagar Nigam Food Safety  Zone-16, Varanasi, Uttar Pradesh - 221005",False,1
+Masala Kitchen,"North Indian,Biryani,Chinese,Thalis,Mughlai,Desserts",3.9,300,Chotta Chuppepur,Bhojuveer,"98/164,Gilat Bazzar,Shivpur,Varanasi ,Uttar Pradesh,221003",False,1
+MAHARAJA FOOD,"North Indian,Chinese,Snacks",NA,400,Lanka,Lanka,"B-33/9-p gandhi nagar nariya, naria nagar  nigam food safety zone 16, varanasi up ,  Sundarpur, Nagar Nigam Food Safety  Zone-16, Varanasi, Uttar Pradesh - 221005",False,1
+Yogiks Cafe,"Indian,Beverages,Desserts",4.1,450,Lanka,Lanka,"B1/128-3 dumraun bagh, Assi - Lanka Rd, Dumraon Colony, Varanasi, Uttar Pradesh 221010, India",False,1
+MAHARAJA ROLL CORNER,"Indian,Chinese",2.6,350,IIT,IIT,"B-33/9-p gandhi nagar nariya, naria  nagar varanasi up , Sundarpur  Varanasi, Uttar Pradesh - 221005,  Nagar Nigam Food Safety Zone-16,  Varanasi, , Uttar Pradesh, 221005",False,1
+choco heaven,Desserts,NA,200,IIT,IIT,"Kandwa Gate Rd, 7XG4+7M8, DLW Colony Rd, DLW Colony, Bhullanpur, Varanasi, Uttar Pradesh 221004, India",True,0
+MIRAKKI,"North Indian,Chinese,Italian,Fast Food",NA,400,Lanka,Lanka,B 27/62 A-15 Ravindrapuri Durgakund road varanasi 221005,False,0
+Food way,"North Indian,Chinese,Fast Food,Snacks,Italian-American",NA,300,Lanka,Lanka,B 27/62 A-15 Ravindrapuri  Durgakund road varanasi 221005,False,0
+Pizzeria Vaatika Cafe,"North Indian,Italian,Snacks",3.8,500,Shivala,Bhelupur,B 1/178 Assi Varanasi,True,1
+KALIKA,"North Indian,Indian,Biryani,Chinese",2.9,500,Lanka,Lanka,"B 33 9 p gandhi nagar nariya, naria nagar  nigam food safety zone 16, varanasi up ,  Sundarpur, Nagar Nigam Food Safety  Zone-16, Varanasi, Uttar Pradesh - 221005",False,1
+FIDKA,Indian,4.0,700,Bhelupur,Lanka,"B 3/335-151-A-1-A, Ravindrapuri,Varanasi, District - Varanasi, STATE - Uttar Pradesh,Pincode-221010",False,1
+Break-Da-Fast,"North Indian,Combo",3.6,200,Lanka,Lanka,"B 1/128 3 Assi, Varanasi , bhelupur nagar , nigam food safety zone-17 , up 221005",False,1
+MAA ANNAPURNA FAST FOOD AND RESTAURANT,"Chinese,North Indian,Snacks",NA,250,Lanka,Lanka,"B 27/17 A-7 Durgakund, Nawab Ganj,  Nagar Nigam Food Safety Zone-17,  Varanasi, Uttar Pradesh - 221005/ Maa Anpurna Fast Food",False,1
+DEEP FAST FOOD CORNER,"Snacks,Chinese",NA,150,Lanka,Lanka,Deep fast food corner near jalans (Durga kund) Nagawa nagar nigam food safety zone -16 varanasi uttar pradesh-221005,False,1
+THE CAPSICUMS,"Chinese,North Indian",2.5,250,Lanka,Lanka,"B-33/9-p gandhi nagar nariya, naria  nagar varanasi up , Sundarpur  Varanasi, Uttar Pradesh - 221005,  Nagar Nigam Food Safety Zone-16,  Varanasi, , Uttar Pradesh, 221005",False,1
+Al Baik World,Snacks,NA,200,Aalampura,Sigra,"A 17/88, Pathani Tola, Varanasi-221001",False,1
+HOT N GRILL RESTAURANT,"North Indian,Chinese,Snacks,Tandoor",NA,400,Nadesar,Nadesar,"Sa18/112-A-11-28 Sarang Talab, Maujahal,  Varanasi, Nagar Nigam Food Safety Zone-3,  Varanasi, Uttar Pradesh-221007",False,1
+Margherita Valley,"Pizzas,Beverages,Indian",NA,250,Lanka,Lanka,"B 6/69 Pitamber pura bhelupur, Lanka, Varanasi-221005",False,1
+NEW MAHARAJA FOOD,"North Indian,Chinese,Biryani,Snacks,American",NA,250,Lanka,Lanka,"B-33/9-p gandhi nagar nariya, naria nagar  nigam food safety zone 16, varanasi up ,  Sundarpur, Nagar Nigam Food Safety  Zone-16, Varanasi, Uttar Pradesh - 221005",False,1
+NEW LUCKNOW BIRYANI FAMILY RESTAURANT,"Biryani,Indian,Tandoor",NA,200,Nadesar,Nadesar,"SH-8/22, BY PASS SHIVPUR, VARANASI, Shivpur, Nagar Nigam Food Safety Zone-1, Varanasi uttar pradesh-221003",False,1
+WELCOME CITY TOWN FAST FOOD CORNER,Chinese,NA,250,Nadesar,Nadesar,"SH 8/34-A-1-P-K, IN FRONT OF SHYAMA HOSPITAL SHIVPUR,VARANASI  221003",False,1
+The Life House,"Italian,Fast Food,Snacks,Desserts",NA,250,Lanka,Lanka,"30 Dumraon bag Colony, Assi Ghat Rd, Varanasi 221005",False,1
+Shawarma & Biryani Nation,"Biryani,Arabian",NA,250,Lanka,Lanka,"B1/128-3 dumraun bagh, Assi - Lanka Rd, Dumraon Colony, Varanasi, Uttar Pradesh 221010, India",False,1
+KRISHNA NITI FOOD DHAM,"North Indian,Indian,Chinese,Thalis",NA,200,Sigra,Sigra,"A 18/11, Diwan Ganj, P. Nehru School,  Adampur, Varanasi, Varanasi, Uttar  Pradesh , Omkaleshwar, Nagar Nigam  Food Safety Zone-6, Varanasi, Uttar  Pradesh - 221001",False,1
+Kingdom of thali,"Thalis,North Indian,Chinese,Snacks",NA,200,Sigra,Sigra,"A 18/11, Diwan Ganj, P. Nehru School,  Adampur, Varanasi, Varanasi, Uttar  Pradesh , Omkaleshwar, Nagar Nigam  Food Safety Zone-6, Varanasi, Uttar  Pradesh - 221001",False,1
+Spice Roll Corner & Family Restaurant,"North Indian,Chinese,Indian",NA,250,Nadesar,Nadesar,"Add. Araji no 104/2 Paharia chauraha Paharia, Varanasi, Uttar Pradesh, 221007",False,1
+CHOW MOW CHINESE & FAST FOOD,"Chinese,Fast Food,Snacks",NA,200,Nadesar,Nadesar,"Near Bhakti Nagar Colony Gate no 2,  daulatpur Road pandeypur Varanasi,  Pandeypur, Nagar Nigam Food Safety  Zone-2, Varanasi, Uttar Pradesh - 221002",False,1
+Sanzha Chulha Family Restaurant,"North Indian,Chinese,Mughlai,Biryani",3.6,500,Indrapur,Bhojuveer,"S 30/14, Indrapur Road, Shivpur, Near Normal School, Nadesar, Varanasi",False,1
+DOSA IN HOUSE,South Indian,NA,250,IIT,IIT,"BARAI CHITAIPUR, CHUNAR ROAD, KANDWA, VARANSI, PIN CODE -221011, Kandwa (CT), Varanasi Tahsil, Varanasi, Uttar Pradesh - 221011",True,1
+The Indian Biryani House,"Biryani,Indian",NA,350,Nadesar,Nadesar,"Sa 17/144-44-A agarsain nagar colony, Ashok Vihar Colony Phase-I, Paharia, Varanasi, Uttar Pradesh 221007, India",False,1
+MAUJ BANARASIYA,"Fast Food,Chinese",NA,250,Nadesar,Nadesar,"MM 22 SHOP NO 42 VDA COLONY  SHIVPUR VARANASI UP , Shivpur, Nagar  Nigam Food Safety Zone-1, Varanasi, Uttar  Pradesh - 221003",False,1
+WINNI CAKES & MORE,Bakery,NA,200,Naria,Lanka,"SHOP NO.B29/26,A-1 A, SANKAT MOCHAN,OPP.CANARA BANK,NAGAR NIGAM FOOD SAFETY ZONE-1,VARANASI,UTTAR PRADESH-221005",False,1
+Manbhavan Fast Food Corner,"Indian,Chinese",3.6,300,Dumraon Colony,Lanka,"praful nagar colony, near  pnb ATM,  Ravidas Gate, lanka varanasi",False,1
+Delicious Restaurant,"North Indian,Chinese,Thalis",3.8,250,karudi,karudi,"11/3, Mohanpuri Colony, Karaundi, Varanasi, Uttar Pradesh 221005, India",True,1
+Bakeman Bakery,Bakery,3.7,200,Bagatpur,Nadesar,"Sh8/10B, Shivpur koat, Po- Cantt- 221003",True,1
+Kasturi Family Restaurant,"Fast Food,Indian",3.8,300,Paharia,Ashapur,"Basudev nagar colony, Paharia, chauraha, Varanasi, Uttar Pradesh, India",False,1
+Kukudooku Restaurant,"North Indian,Biryani,Chinese,Beverages",3.7,300,Sankata Mochan Leprosy,Lanka,"Opposite Saket School, Saket Nagar, Sankat Mochan, Lanka, Varanasi",False,1
+Ming Garden Bakery,"Snacks,Desserts",3.8,300,Bhelupur,Bhelupur,"34-B, Ravindra Puri, Bhelupur, Varanasi",False,1
+Shri Bhola,Indian,3.9,100,Nagwa Lanka,Varanasi,"Opposite V2 Store, BHU Road, Lanka, Varanasi",True,1
+SWEET@99.COM,"Sweets,Snacks",NA,200,Nadesar,Nadesar,"Sa 2/240, t-5, chhotalalpur, Pandeypur,  Pandeypur, Nagar Nigam Food Safety  Zone-2, Varanasi, Uttar Pradesh - 221002",True,1
+Masters Pizza,"American,Snacks",3.0,200,Nadesar,Nadesar,"SA 6/186, Patel katra near oppo service centre pahariya Varanasi, Uttar Pradesh -  221007",True,1
+Flavours Cafe,North Indian,3.6,400,Nagwa Lanka,Lanka,"1st Floor, Swastik Plaza, Near Ravidas Gate, BHU Road, Lanka, Varanasi",False,1
+Shivaz Restaurant,"North Indian,Snacks",NA,350,Sankata Mochan Leprosy,Lanka,"Near Rameshwaram Catika, Saket Nagar Colony, Sankata Mochan Leprosy, Lanka, Varanasi",False,1
+Pizza Hub Express,"Pizzas,Snacks,Chinese",3.8,350,Paharia,Pahariya,"1st floor baba Amarnath complex, Pahariya",False,1
+STAR LAXMI FAMILY RESTAURANT,"Indian,Pizzas,Snacks",NA,200,Lanka,Lanka,"RAMAPURI COLONY SANKAT MOCHAN VARANASI UTTAR PRADESH, Saket Nagar Colony, Sankata Mochan Leprosy, Varanasi, Uttar Pradesh 221005, India",False,1
+Banaras restaurant and cafe,Indian,NA,300,Nadesar,Nadesar,"(NEAR PAGE 3 MAKEUP STUDIO) PAHARIYA AKATHA ROAD, VARANASI , Pandeypur, Nagar Nigam Food Safety Zone-2, Varanasi, Uttar Pradesh - 221007",False,1
+SAI BAKERS,"Bakery,Fast Food",NA,200,Nadesar,Nadesar,"MM-19 ASHOK VIHAR COLONY ,PAHARIYA VARANASI TAHSIL, VARANASI UTTAR PRADESH-221007",True,1
+Paprika Food Court,"North Indian,Chinese,Continental,Biryani,Beverages,South Indian",3.8,350,Varanasi,lanka,"b 30/5 ,vikram building ,Lanka,varanasi",False,1
+Sri Ji Kitchen,"Chinese,South Indian,Snacks",NA,200,IIT,IIT,"Arazi No.216 & 217, Gandhi Nagar, Mohanpuri Colony, Karaundi, Varanasi, Uttar Pradesh 221005, India",False,1
+YELLOW CURRY POINT,"North Indian,Indian,Chinese",NA,250,Lanka,Lanka,"B 30/2, Plot no. 29 Prafull Nagar Colony, beside PNB Bank, Lanka, Varanasi, Uttar Pradesh 221011, India",False,1
+Pahalwan Lassi Bhandar,Beverages,3.9,100,Bhelupur,Lanka,"B 30/2, Pandit Madan Mohan Malviya Road Lanka Road, Ravidas Gate, Lanka Chaumuhani, Lanka, Varanasi",True,1
+#InstaHunger,Chinese,NA,300,Lanka,Lanka,"B32/112 P , Saket Nagar Colony Near AVA HOSPITAL SAKET NAGAR PARK, NO 2, Gandhinagar, Naria, Varanasi, Uttar Pradesh 221005, India",True,1
+TANDOOR  JUNCTION,"North Indian,Snacks",NA,300,Nadesar,Nadesar,"SHOP NO.34,PAHARIYA MANDI GATE NO  2,SUPER MARKET,PAHARIYA, Pahariya,  Nagar Nigam Food Safety Zone-2,  Varanasi, Uttar Pradesh - 221001",False,1
+PINE TREE RESTAURANT,"Chinese,Tandoor,Biryani",3.7,300,IIT,IIT,"N 4/13 C, Panchkoshi Road, Karaundi, Naria, food safety zone-16, Varanasi, Uttar Pradesh 221005, India",False,1
+Cheezee Bites,"Pizzas,Snacks,Beverages,Salads,Desserts",3.9,300,Lanka,Lanka,"B-30/25, BHU - Lanka Main Road, Varanasi",False,1
+The Garage Kitchen,"Street Food,Indian",NA,100," Lanka Assi Road, Varanasi","Lanka, BHU Road","B 30/2A - 27A, Lanka Assi Road, Varanasi, Nagwa, Nagar Nigam Food Safety Zone-16, Varanasi, Uttar Pradesh-221005",True,1
+Tasty Bites,"Street Food,North Indian,Chinese,Biryani",4.0,150,Sankata Mochan Leprosy,Lanka,"B 32/47 AC , Nariya, saket nagar, opposite saket school",False,1
+UP 65 Wala,"North Indian,Chinese,Continental",3.4,250,Nadesar,Nadesar,"SA 5/159 E 4 A, RAMERYPUR, PAHARIYA, VARANASI, 221007",False,1
+Mr. Pizzawala,"Italian,Pizzas",3.6,200,Lanka,Lanka,"B 31/26, Lanka , VaranasI",True,1
+English Masala,"North Indian,Chinese,Snacks,Beverages",4.3,350,Lanka,Lanka,"44, Madhav Market, Lanka, Varanasi, Uttar Pradesh 221005, India",False,1
+Apna Family Restaurant,"Indian,North Indian",3.4,250,Nagwa Lanka,Lanka,"B 30-42-13,j Madhav Market ,Lanka,Varanasi",True,1
+Central Pizzeria,"Pizzas,Italian,Fast Food",NA,400,Lanka,Lanka,"B1/229 A, Opposite Alok Hospital, Assi Ghat Road, Assi Ghat, Varanasi",False,1
+CHICKEN KING,"North Indian,Snacks",NA,250,Lanka,Lanka,"B 30/2, Plot no. 29 Prafull Nagar Colony, beside PNB Bank, Lanka, Varanasi, Uttar Pradesh 221011, India",False,1
+New Apna Family Restaurant,"North Indian,Biryani,Chinese,Beverages",3.6,300,Lanka,Lanka,"B 30-42-13,j Madhav Market ,Lanka,Varanasi",True,1
+italianio,"Chinese,Fast Food",NA,250,Lanka,Lanka,"B 30/2, Plot no. 29 Prafull Nagar Colony, beside PNB Bank, Lanka, Varanasi, Uttar Pradesh 221011, India",False,1
+Cafe de Coop,"Indian,Chinese",3.4,350,Lanka,Lanka,"B 31/13 K, Malviya Kunj, Lanka, Varanasi",False,1
+URBAN PUNJAB,"North Indian,Biryani,Sweets",NA,300,Lanka,Lanka,"B 30/2, Plot no. 29 Prafull Nagar Colony, beside PNB Bank, Lanka, Varanasi, Uttar Pradesh 221011, India",False,1
+PIZZA EXPRESS MEAL,"Pizzas,American,Snacks",NA,250,Nadesar,Nadesar,"SA-5/156-F-2 AKATHA PAHARIYA VARANASI  UTTAR PRADESH-221007, Dindayalpur,  Nagar Nigam Food Safety Zone-3,  Varanasi, Uttar Pradesh - 221007",False,1
+Banarasi Biryani,"Biryani,Arabian,North Indian,Desserts",4.1,300,Lanka,Lanka,"B-30/70-71 Ground floor lanka,Varanasi,221004",False,1
+BURGER POINT,"American,Fast Food",NA,250,Lanka,Lanka,"Near Shiv shakti complex, Lanka,  Varanasi, UP-, Naria, Nagar Nigam Food  Safety Zone-16, Varanasi, Uttar Pradesh -  221005",False,1
+The Pizza Cutter,"Pizzas,Italian,American",NA,400,Nadesar,Nadesar,"SA-5/156-F-2, Akatha Pahariya, Pandeypur, Varanasi 221007",False,1
+Ayushmaan Chaat Wala,"Chaat,South Indian,Chinese,Fast Food",NA,100,Nadesar,Nadesar,"chitragupt. temple, Chitragupta Nagar Colony, Bhakti Nagar Colony, Paharia, Varanasi, Uttar Pradesh 221002, India",True,1
+SIGDEE THE GRILL AND FOOD  FACTORY,"Chinese,Tandoor,Mughlai,Biryani",NA,400,Lanka,Lanka,"N-1/26-D, Nagwa, Lanka, Varanasi,  UP-221005, Nagwa, Nagar Nigam Food  Safety Zone-16, Varanasi, Uttar Pradesh - 221005",False,1
+THE BAKEHOUSE,"Desserts,Snacks",3.6,200,Paharia,Ashapur,"S-17/1-A-3G-R-1 PAHARIYA, Nagar Nigam Food Safety Zone-2, Varanasi (Uttar Pradesh), - 221007",True,1
+Sagar Ratna,"South Indian,North Indian,Chinese",3.9,400,Nagwa Lanka,Lanka,"B-30/69-70, Swastik Plaza, Beside Ravidas Gate, Lanka, Varanasi",True,1
+NEW BAKER WEE,"Bakery,American,Chinese",NA,150,Lanka,Lanka,"b. 32/23 SAKET NAGAR IANKA VARANASI, Sundarpur, Nagar Nigam Food Safety Zone-16, Varanasi, Uttar Pradesh - 221005",True,1
+BIRYANI & CHINEESE,North Indian,NA,200,Lanka,Lanka,"Near Shiv shakti complex, Lanka,  Varanasi, UP-, Naria, Nagar Nigam Food  Safety Zone-16, Varanasi, Uttar Pradesh -  221005",False,1
+Murga Surga,"North Indian,Chinese",NA,250,Lanka,Lanka,"B 32/47 AC, Nariya, Saket Nagar, opposite Saket school, Varanasi 221005",False,1
+Tanish Dining and Cafe,"North Indian,Beverages,Snacks",3.7,500,Nagwa Lanka,Lanka,"N 1/64 A, Near BHU Trauma Center Main Gate, Ravidas Gat Road, Lanka, Varanasi",False,1
+Pizza Point,Pizzas,3.3,400,Pahariya ,Nadesar,"SA-5/156-F-2, Akatha Pahariya, Pandeypur, Varanasi",False,1
+Downtown Pizza,"Pizzas,Continental",2.1,400,Nadesar,Nadesar,"SA-5/156-F-2, Akatha Pahariya, Pandeypur, Varanasi",False,1
+RED PALACE RESTAURANT AND MARRIEGE LAWN,"North Indian,Chinese,Beverages,Desserts,Tandoor,Continental",NA,400,Nadesar,Nadesar,"SA 6/172 K-1 AAKHATA , PAHARIYA VARANASI  NAGAR NIGAM FOOD SAFETY ZONE-2 VARANASI UTTAR PRADESH-221007",False,1
+Tit Bit Cafe At Home,"North Indian,South Indian,Snacks",3.9,350,Nagwa Lanka,Lanka,"Swastik Plaza, Pandit Madan Mohan Malviya Road, Near Ravidas Gate, Near Lanka Thana, Lanka, Varanasi",True,1
+MASALA TADKA,Indian,NA,250,Nadesar,Nadesar,"SOYEPUR, Chhota Lalpur, Soyepur,  Varanasi Tahsil, Varanasi, Uttar Pradesh -  221002",True,1
+Cafe 365,North Indian,NA,300,Lanka,Lanka,"B 30/42, 50,51,52, Madho market, Lanka, Varanas i, Netambit - 221005",False,1
+DESI SWAG,"North Indian,Chinese,Tandoor,Biryani",NA,250,Nadesar,Nadesar,"SH-8/22 BYPASS SHIVPUR COURT SHIVPUR  VARANASI,VARANASI - 221002, Shivpur,  Nagar Nigam Food Safety Zone-1,  Varanasi, Uttar Pradesh - 221002",False,1
+KHANA KHAZANA KITCHEN,North Indian,NA,150,Nadesar,Nadesar,"SOYEPUR, Chhota Lalpur, Soyepur,  Varanasi Tahsil, Varanasi, Uttar Pradesh -  221002",True,1
+New Banaras Restaurant & Bhojnalay,"Indian,Chinese,South Indian",NA,400,Lanka,Lanka,"Nariya Road, Near Maruti Guest House, Saket Nagar Colony, Lanka, Varanasi",False,1
+Ananta food court,"North Indian,South Indian,Chinese",3.9,200,IIT,IIT,"Plot No.924, Susuwahi, Hyderabad Gate,  B.H.U., Varanasi , Susuwahi (CT), Varanasi  Tahsil, Varanasi, Uttar Pradesh - 221005",True,1
+GO 39 PIZZA,"Pizzas,Italian",3.5,300,Basahi,Nadesar,"SH,3/3K-2K,Nawalpur Basahi, Varanasi UP-221002",False,1
+BBC Restaurant,"North Indian,Chinese,Biryani,Tandoor,South Indian,Thalis",3.3,200,Lanka,"Malviya Kunj, lanka","2nd floor B-31/12 Malviya Kunj lanka, Varanasi UP",False,1
+Kwality walls frogen & KUHU Ice cream,"Ice Cream,Desserts,Beverages",NA,325,Nadesar,Nadesar,"SA17/1K, Ganpathi Nagar, Ashok Nagar, Varanasi, Uttar Pradesh 221001, India",True,1
+Wow Chaina,Chinese,3.5,300,Karaundi,IIT,"Sahaj Shopping Complex, BHU Rd, Near Hyderabad Gate, Susuwahi, Varanasi, Uttar Pradesh 221005, India",False,1
+OMA (Kapoors Kitchen) (Home made food),Indian,4.1,150,Kadipur,Nadesar,"SH 16/120, R 1, Kadipur, Near B S Convent School, Nadesar, Varanasi",False,1
+Flavours Restaurant,"North Indian,Thai,South Indian",NA,500,Lanka,Lanka,"Hotel Ozas Grand, Opposite Bu Trauma Centre Road, Samne Ghat Road, Lanka, Varanasi",False,1
+Roma's Cafe Diner,"North Indian,Chinese,Continental,Italian,Mexican",4.1,700,Nagwa Lanka,Lanka,"2nd Floor, Swastik Plaza, Lanka, Varanasi",False,1
+Mr Jalapenos,"Mexican,Italian,Chinese,Indian",NA,300,Lanka,IIT,"N 1/61-2 RC Samne Ghat Road Ward Nagwa,  Nagwa, Nagar Nigam Food Safety Zone-16, Varanasi, Uttar Pradesh - 221005",True,1
+VEGKING FAMILY RESTAURANT,"South Indian,North Indian,Fast Food,Italian,Beverages",NA,350,Nadesar,Nadesar,"SH 8/4-P-S, AYODHYAPURI COLONY, SHIVPUR,  VARANASI , Nagar Nigam Food Safety Zone-1,  Varanasi, Uttar Pradesh-221003",True,1
+Go 69 Pizza,"Pizzas,Fast Food,Desserts",2.8,300,Chadmari ,Bhojuveer,"BD Singh Katra, Near Natiniyadai Mandir, Bada Lalpur, bhojuveer, Varanasi",False,1
+Food Street,"Biryani,Indian,Chinese",2.8,200,Karaundi,IIT,"Suswahi , Hyderabad Gate, BHU. Varanasi-221005",False,1
+wow china,"Pizzas,Italian,Continental,Pastas",3.5,150,Lamhi,Nadesar,"BD Singh Katara, Khushahal Nagar,Near Natiniyadai mandeer, Sindhora Road,Varanasi.",False,1
+SRING SRIJA RASOI,"North Indian,Snacks,Sweets,Beverages",NA,250,Nadesar,Nadesar,"226/1 NEW 397 GHA, RAMDUTTPUR RAM DUTT PUR, VARANASI TAHSIL, VARANASI, UTTAR PRADESH- 221007",True,1
+VIP BAKERS,Bakery,NA,300,IIT,IIT,"NASIRPUR, SUSUWAHI VARANASI  NASIRPUR, VARANASI TAHSIL, VARANASI UTTAR PRAESH-221011",False,1
+TANDOORI ZAIKA,"Tandoor,North Indian,Indian",NA,250,Nadesar,Nadesar,"SH,3/3K-2K, NAWALPUR BASAHI,  VARANASI UTTAR PRADESH-221002,  Shivpur, Nagar Nigam Food Safety Zone-1,  Varanasi, Uttar Pradesh - 221002",False,1
+Banaras Burger Corner,"North Indian,South Indian,Snacks,Chinese",3.6,250,Lanka,Lanka,"Near BHU, Lanka, Varanasi",False,1
+CHAMPARAN MEAT HOUSE BASAHI,"Indian,North Indian,Fast Food",2.5,350,Nadesar,Nadesar,"SH,3/3K-2K, NAWALPUR BASAHI,  VARANASI UTTAR PRADESH-221002,  Shivpur, Nagar Nigam Food Safety Zone-1,  Varanasi, Uttar Pradesh - 221002",False,1
+Go Pizza,"Pizzas,Continental,Fast Food",2.2,400,IIT,IIT,Hydarabad Gate BHU VARANASI  - 221011,False,1
+TANDOORI GALI,"North Indian,Chinese,Biryani",NA,250,Nadesar,Nadesar,"SH,3/3K-2K, NAWALPUR BASAHI,  VARANASI UTTAR PRADESH-221002,  Shivpur, Nagar Nigam Food Safety Zone-1,  Varanasi, Uttar Pradesh - 221002",False,1
+Wow  Pizza  and  Burger  Restaurant,"Pizzas,Italian,Beverages,Chinese,Fast Food",2.4,200,Karaundi,IIT,"Susuwahi, HydrabadGate Bhu, Varanasi, - 221005",False,1
+Wow Burger and Pizza,"Pizzas,Snacks",2.5,300,Karaundi,IIT,"Susuwahi, Hadrabad Gate BHU Varanasi-221011 (UP), District - Varanasi, STATE - Uttar Pradesh",False,1
+BBC Hotel & Restaurant,"North Indian,South Indian,Chinese,Snacks",3.5,250,Lanka,Lanka,"Near BHU, Lanka, Varanasi",True,1
+HIGHWAY INN BUDDHA RESTAURANT,"Indian,Chinese,South Indian,North Indian",3.7,200,Asapur,Ashapur,"Hanuman Nagar, Ashapur, Sarnath",False,1
+Namah Pahuna Kitchen,"Indian,Chinese,North Indian,South Indian",4.0,250,Karaundi,IIT,"Sri Ram Complex Hyderabad Gate,Nasiripur,Varanasi",False,1
+Dhosa Corner,"Indian,South Indian,Chinese,Continental,Juices",3.3,300,Nadesar,Nadesar,"SAI PLAZA, CITI MEGA MART, CHANDMARI, VARANASI",False,1
+ROLLS ROYSE,"Indian,Fast Food,Snacks",NA,250,IIT,IIT,"late hari prasad patel mohanpuri nasirpur. Varanasi (CB), Varanasi Tahsil, Varanasi, Uttar Pradesh-221011",False,1
+PIZZA PIZZA,"Pizzas,Italian,Fast Food,Combo",NA,250,Basahi,Nadesar,"SH,3/3K-2K, NAWALPUR BASAHI,  VARANASI UTTAR PRADESH-221002,  Shivpur, Nagar Nigam Food Safety Zone-1,  Varanasi, Uttar Pradesh - 221002",False,1
+SIYA FAST FOOD,"North Indian,Continental,Biryani",NA,250,Nadesar,Nadesar,"SH,3/3K-2K, NAWALPUR BASAHI,  VARANASI UTTAR PRADESH-221002,  Shivpur, Nagar Nigam Food Safety Zone-1,  Varanasi, Uttar Pradesh - 221002",False,1
+THE PIZZA,"Pizzas,Italian,Combo,Fast Food,Desserts",NA,300,Nadesar,Nadesar,"SH,3/3K-2K, NAWALPUR BASAHI,  VARANASI UTTAR PRADESH-221002,  Shivpur, Nagar Nigam Food Safety Zone-1,  Varanasi, Uttar Pradesh - 221002",False,1
+KESHAR RASOI FAMILY RESATAURANT,"Chinese,Fast Food,South Indian,Indian",NA,250,Nadesar,Nadesar,"L-20 VDA COLONY CHANDMARI SAI PLAZA ,CITI MEGA MART LAMHI, LAMHI VARANASI TAHSIL VARANASI UTTAR PRADESH-221007",False,1
+Sanskriti foods,Snacks,NA,90,Nadesar,Nadesar,"Rasool garh, Saranath , Varanasi, Uttar Pradesh, India",True,1
+BIRYANI EXPRESS,"Biryani,North Indian,Combo",NA,300,IIT,IIT,"Arazi no. 926/2, susuwahi, varanasi,  UP-221005, Susuwahi (CT), Varanasi Tahsil,  Varanasi, Uttar Pradesh - 221005",False,1
+THE NEW BIRYANI MAHAL,"Biryani,Thalis,Indian",NA,200,IIT,IIT,"Arazi no. 926/2, susuwahi, varanasi,  UP-221005, Susuwahi (CT), Varanasi Tahsil,  Varanasi, Uttar Pradesh - 221005",False,1
+The	Modanwal Bakers,"Bakery,Chaat",NA,200,Shivpur,Babatpur,"Shivpur Railway Crossing, Nagar Nigam Food Safety Zone-1, Varanasi (Uttar Pradesh), - 221003",True,1
+Pizza Halt,"Pizzas,Italian,Beverages",NA,150,sarnath,Nadesar,arazi no 153/3 mawaiya sarnath varanasi 221007 india,True,1
+HOTEL SHIV RUDRAKSH RESORTS,"North Indian,Chinese,Snacks,Beverages",NA,250,IIT,IIT,"N-1/66 F-3-4-A-1, NAGWA, LANKA, VARANASI ,  Nagar Nigam Food Safety Zone-16, Varanasi,  Uttar Pradesh-221005",True,1
+YUMMY THALI,North Indian,NA,200,Lanka,Lanka,"bhagwanpur, Lanka varanasi, Koniyan, Nagar Nigam Food Safety Zone-5, Varanasi, Uttar Pradesh - 221005",False,1
+Food Plaza,"North Indian,Chinese,Continental",NA,400,Babatpur,Babatpur,Sh-25/11 k-1 mohalla sudhdhipur shivpur varanasi-221002,False,1
+UP-65,"North Indian,Chinese",3.4,350,Sarnath,Sarnath,"25, Rishpattan Road, Mavaiya, Sarnath, Varanasi",False,1
+CHINA TOWN,Chinese,NA,200,Nadesar,Nadesar,"Aktha Bela Road, Near Janaki Vatika Lawn,  Varanasi, Soyepur, Varanasi Tahsil,  Varanasi, Uttar Pradesh - 221007",False,1
+The Biryani Mahal 2,"Biryani,North Indian,Chinese",NA,250,Lanka,Lanka,"Bhagwanpur, Near Sant Sarvandas Guest House, P.O. BHU, Bhagwanpur, Varanasi, Uttar Pradesh 221005, India",False,1
+SHAAKYA MULTICUISINE FAMILY RESTAURANT,"Indian,Chinese,Tandoor",3.8,250,Nadesar,Nadesar,"SA-14/98-S-8 Rishpattan Rd Shaakya Sarnath, Ganj, Varanasi, Uttar Pradesh 221007, India",False,1
+HYDERABADI TADKA,"Pizzas,Snacks,Chinese,Biryani",NA,250,Lanka Varanasi ,Lanka Varanasi,"NARAYANPUR DAFI, SUSUWAHI, VARANASI SUSUWAHI (CT) VARANASI TAHSIL, VARANASI UTTAR PRADESH-221011",False,1
+College Corner Chinese,"Chinese,Indian",NA,200,Chandmari,"Bada Lalpur,  Chandmari","Deen Dayal Hast Kala Sankul, Bada Lalpur,  Chandmari, Varanasi -221003",False,1
+PRO PIZZA,"Pizzas,Snacks,Pastas,Burgers",NA,250,Naranpur dafi,Naranpur dafi,"Naranpur dafi, susuwahi, Varanasi, Uttar Pradesh -221011",False,1
+New Bindass Restaurant,North Indian,NA,200,Awaleshpur,IIT,"Vill.	Nuaw, Post-	Naipura,	P .S-	Lanka,	Varanasi",False,1
+The Star Bakery,Bakery,NA,200,IIT,IIT,"7X3W+43J, Seer Govardhanpur, Sear Govardhan Dafi, Uttar Pradesh 221011, India",True,1
+The Live Bakery,Bakery,NA,200,IIT,IIT,"7X3W+43J, Seer Govardhanpur, Sear Govardhan Dafi, Uttar Pradesh 221011, India",True,1
+GO GREEN BAKERY,Bakery,NA,200,IIT,IIT,"7X3W+43J, Seer Govardhanpur, Sear Govardhan Dafi, Uttar Pradesh 221011, India",True,1
+Fresh Cake,Bakery,NA,200,IIT,IIT,"7X3W+43J, Seer Govardhanpur, Sear Govardhan Dafi, Uttar Pradesh 221011, India",True,1
+Ram Bakery,Bakery,NA,200,IIT,IIT,"7X3W+43J, Seer Govardhanpur, Sear Govardhan Dafi, Uttar Pradesh 221011, India",False,1
