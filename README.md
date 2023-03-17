@@ -6,4 +6,4 @@ This is an exploratory data analysis project on **swiggy restaurants** dataset f
 * Countplot of number of restaurants near every Locality
 * Vegetarian restaurants by Location
 
-Dataset can be downloaded from the link given in jupyter notebook
+Dataset can be downloaded from the [link](https://www.kaggle.com/datasets/chinmayshanbhag/swiggy-varanasi-restaurants)
